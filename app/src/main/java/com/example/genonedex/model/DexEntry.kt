@@ -5,7 +5,6 @@ import androidx.annotation.StringRes
 
 data class DexEntry(
     @StringRes private val dexNo: Int,
-    @DrawableRes private val miniSprite: Int,
     @DrawableRes private val regSprite: Int,
     @StringRes private val name: Int,
     @StringRes private val desc: Int,
