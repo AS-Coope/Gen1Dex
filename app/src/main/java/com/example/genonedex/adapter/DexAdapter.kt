@@ -6,7 +6,6 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import androidx.recyclerview.widget.RecyclerView.ViewHolder
 import com.example.genonedex.R
 import com.example.genonedex.model.DexScrollEntry
 
@@ -34,8 +33,8 @@ class DexAdapter(
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
         val item = dexScrollEntries[position]
 
-        holder.dexEntryName.text = item.name.toString()
-        holder.dexEntryNo.text = item.dexNo.toString()
+        holder.dexEntryName.setText(item.name)
+        holder.dexEntryNo.setText(item.dexNo)
         holder.dexEntrySprite.setImageResource(item.miniSprite)
     }
 }
