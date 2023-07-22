@@ -11,4 +11,6 @@ data class DexEntry(
     @StringRes private val desc: Int,
     @StringRes private val weight: Int,
     @StringRes private val height: Int,
+    @StringRes private val type1: Int,
+    @StringRes private val type2: Int
 )

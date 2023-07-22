@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">GenOneDex</string>
 
+    <string name="no_type_2">None</string>
+
     <!-- Bulbasaur Line -->
     <string name="bulbasaur_name">Bulbasaur</string>
     <string name="bulbasaur_dex_no">1</string>
