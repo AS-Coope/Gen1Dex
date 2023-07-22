@@ -23,111 +23,129 @@
     <!-- Bulbasaur Line -->
     <string name="bulbasaur_name">Bulbasaur</string>
     <string name="bulbasaur_dex_no">No. 001</string>
+    <string name="bulbasaur_species">Seed Pokemon</string>
     <string name="bulbasaur_desc">Bulbasaur Description</string>
-    <string name="bulbasaur_weight">x kg</string>
-    <string name="bulbasaur_height">y cm</string>
+    <string name="bulbasaur_weight">6.9 kg</string>
+    <string name="bulbasaur_height">0.7 m</string>
 
     <string name="ivysaur_name">Ivysaur</string>
     <string name="ivysaur_dex_no">No. 002</string>
+    <string name="ivysaur_species">Seed Pokemon</string>
     <string name="ivysaur_desc">Ivysaur Description</string>
-    <string name="ivysaur_weight">x kg</string>
-    <string name="ivysaur_height">y cm</string>
+    <string name="ivysaur_weight">13.0 kg</string>
+    <string name="ivysaur_height">1.0 m</string>
 
     <string name="venusaur_name">Venusaur</string>
     <string name="venusaur_dex_no">No. 003</string>
+    <string name="venusaur_species">Seed Pokemon</string>
     <string name="venusaur_desc">Venusaur Description</string>
-    <string name="venusaur_weight">x kg</string>
-    <string name="venusaur_height">y cm</string>
+    <string name="venusaur_weight">100.0 kg</string>
+    <string name="venusaur_height">2.0 m</string>
 
     <!-- Charmander Line -->
     <string name="charmander_name">Charmander</string>
     <string name="charmander_dex_no">No. 004</string>
+    <string name="charmander_species">Lizard Pokemon</string>
     <string name="charmander_desc">Charmander Description</string>
-    <string name="charmander_weight">x kg</string>
-    <string name="charmander_height">y cm</string>
+    <string name="charmander_weight">8.5 kg</string>
+    <string name="charmander_height">0.6 m</string>
 
     <string name="charmeleon_name">Charmeleon</string>
     <string name="charmeleon_dex_no">No. 005</string>
+    <string name="charmeleon_species">Flame Pokemon</string>
     <string name="charmeleon_desc">Charmeleon Description</string>
-    <string name="charmeleon_weight">x kg</string>
-    <string name="charmeleon_height">y cm</string>
+    <string name="charmeleon_weight">19.0 kg</string>
+    <string name="charmeleon_height">1.1 m</string>
 
     <string name="charizard_name">Charizard</string>
     <string name="charizard_dex_no">No. 006</string>
+    <string name="charizard_species">Flame Pokemon</string>
     <string name="charizard_desc">Charizard Description</string>
-    <string name="charizard_weight">x kg</string>
-    <string name="charizard_height">y cm</string>
+    <string name="charizard_weight">90.5 kg</string>
+    <string name="charizard_height">1.7 m</string>
 
     <!-- Squirtle Line -->
     <string name="squirtle_name">Squirtle</string>
     <string name="squirtle_dex_no">No. 007</string>
+    <string name="squirtle_species">Tiny Turtle Pokemon</string>
     <string name="squirtle_desc">Squirtle Description</string>
-    <string name="squirtle_weight">x kg</string>
-    <string name="squirtle_height">y cm</string>
+    <string name="squirtle_weight">9.0 kg</string>
+    <string name="squirtle_height">0.5 m</string>
 
     <string name="wartortle_name">Wartortle</string>
     <string name="wartortle_dex_no">No. 008</string>
+    <string name="wartortle_species">Turtle Pokemon</string>
     <string name="wartortle_desc">Wartortle Description</string>
-    <string name="wartortle_weight">x kg</string>
-    <string name="wartortle_height">y cm</string>
+    <string name="wartortle_weight">22.5 kg</string>
+    <string name="wartortle_height">1.0 m</string>
 
     <string name="blastoise_name">Blastoise</string>
     <string name="blastoise_dex_no">No. 009</string>
+    <string name="blastoise_species">Shellfish Pokemon</string>
     <string name="blastoise_desc">Blastoise Description</string>
-    <string name="blastoise_weight">x kg</string>
-    <string name="blastoise_height">y cm</string>
+    <string name="blastoise_weight">85.5 kg</string>
+    <string name="blastoise_height">1.6 m</string>
 
     <string name="caterpie_name">Caterpie</string>
     <string name="caterpie_dex_no">No. 010</string>
+    <string name="caterpie_species">Worm Pokemon</string>
     <string name="caterpie_desc">Caterpie Description</string>
-    <string name="caterpie_weight">x kg</string>
-    <string name="caterpie_height">y cm</string>
+    <string name="caterpie_weight">2.9 kg</string>
+    <string name="caterpie_height">0.3 m</string>
 
     <string name="metapod_name">Metapod</string>
     <string name="metapod_dex_no">No. 011</string>
+    <string name="metapod_species">Cocoon Pokemon</string>
     <string name="metapod_desc">Metapod Description</string>
-    <string name="metapod_weight">x kg</string>
-    <string name="metapod_height">y cm</string>
+    <string name="metapod_weight">9.9 kg</string>
+    <string name="metapod_height">0.7 m</string>
 
     <string name="butterfree_name">Butterfree</string>
     <string name="butterfree_dex_no">No. 012</string>
+    <string name="butterfree_species">Butterfly Pokemon</string>
     <string name="butterfree_desc">Butterfree Description</string>
-    <string name="butterfree_weight">x kg</string>
-    <string name="butterfree_height">y cm</string>
+    <string name="butterfree_weight">32.0 kg</string>
+    <string name="butterfree_height">1.1 m</string>
 
     <string name="weedle_name">Weedle</string>
     <string name="weedle_dex_no">No. 013</string>
+    <string name="weedle_species">Hairy Bug Pokemon</string>
     <string name="weedle_desc">Weedle Description</string>
-    <string name="weedle_weight">x kg</string>
-    <string name="weedle_height">y cm</string>
+    <string name="weedle_weight">3.2 kg</string>
+    <string name="weedle_height">0.3 m</string>
 
     <string name="kakuna_name">Kakuna</string>
     <string name="kakuna_dex_no">No. 014</string>
+    <string name="kakuna_species">Cocoon Pokemon</string>
     <string name="kakuna_desc">Kakuna Description</string>
-    <string name="kakuna_weight">x kg</string>
-    <string name="kakuna_height">y cm</string>
+    <string name="kakuna_weight">10.0 kg</string>
+    <string name="kakuna_height">0.6 m</string>
 
     <string name="beedrill_name">Beedrill</string>
     <string name="beedrill_dex_no">No. 015</string>
+    <string name="beedrill_species">Poison Bee Pokemon</string>
     <string name="beedrill_desc">Beedrill Description</string>
-    <string name="beedrill_weight">x kg</string>
-    <string name="beedrill_height">y cm</string>
+    <string name="beedrill_weight">29.5 kg</string>
+    <string name="beedrill_height">1.0 m</string>
 
     <string name="pidgey_name">Pidgey</string>
     <string name="pidgey_dex_no">No. 016</string>
+    <string name="pidgey_species">Tiny Bird Pokemon</string>
     <string name="pidgey_desc">Pidgey Description</string>
-    <string name="pidgey_weight">x kg</string>
-    <string name="pidgey_height">y cm</string>
+    <string name="pidgey_weight">1.8 kg</string>
+    <string name="pidgey_height">0.3 m</string>
 
     <string name="pidgeotto_name">Pidgeotto</string>
     <string name="pidgeotto_dex_no">No. 017</string>
+    <string name="pidgeotto_species">Bird Pokemon</string>
     <string name="pidgeotto_desc">Pidgeotto Description</string>
-    <string name="pidgeotto_weight">x kg</string>
-    <string name="pidgeotto_height">y cm</string>
+    <string name="pidgeotto_weight">30.0 kg</string>
+    <string name="pidgeotto_height">1.1 m</string>
 
     <string name="pidgeot_name">Pidgeot</string>
     <string name="pidgeot_dex_no">No. 018</string>
+    <string name="pidgeot_species">Bird Pokemon</string>
     <string name="pidgeot_desc">Pidgeot Description</string>
-    <string name="pidgeot_weight">x kg</string>
-    <string name="pidgeot_height">y cm</string>
+    <string name="pidgeot_weight">39.5 kg</string>
+    <string name="pidgeot_height">1.5 m</string>
 </resources>
