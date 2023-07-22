@@ -4,7 +4,7 @@ import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
 
 data class DexScrollEntry(
-    @StringRes private val dexNo: Int,
-    @DrawableRes private val miniSprite: Int,
-    @StringRes private val name: Int,
+    @StringRes val dexNo: Int,
+    @DrawableRes val miniSprite: Int,
+    @StringRes val name: Int,
 )

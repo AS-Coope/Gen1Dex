@@ -4,12 +4,12 @@ import androidx.annotation.DrawableRes
 import androidx.annotation.StringRes
 
 data class DexEntry(
-    @StringRes private val dexNo: Int,
-    @DrawableRes private val regSprite: Int,
-    @StringRes private val name: Int,
-    @StringRes private val desc: Int,
-    @StringRes private val weight: Int,
-    @StringRes private val height: Int,
-    @StringRes private val type1: Int,
-    @StringRes private val type2: Int
+    @StringRes val dexNo: Int,
+    @DrawableRes val regSprite: Int,
+    @StringRes val name: Int,
+    @StringRes val desc: Int,
+    @StringRes val weight: Int,
+    @StringRes val height: Int,
+    @StringRes val type1: Int,
+    @StringRes val type2: Int
 )
