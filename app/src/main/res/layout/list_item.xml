@@ -13,6 +13,7 @@
         android:orientation="horizontal">
 
         <TextView
+            android:id="@+id/dexEntryNo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
@@ -22,14 +23,14 @@
             android:textAppearance="?attr/textAppearanceHeadline6"/>
 
         <ImageView
-            android:id="@+id/monImage"
+            android:id="@+id/dexEntryImage"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             tools:srcCompat="@drawable/ic_launcher_foreground" />
         <!--This is just a placeholder image-->
 
         <TextView
-            android:id="@+id/monName"
+            android:id="@+id/dexEntryName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?attr/textAppearanceHeadline6"

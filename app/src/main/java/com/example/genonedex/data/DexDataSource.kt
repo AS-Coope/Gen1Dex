@@ -1,5 +1,7 @@
 package com.example.genonedex.data
 
+import com.example.genonedex.model.DexScrollEntry
+
 class DexDataSource {
 
     // formats the data to be presented on the Recycler View

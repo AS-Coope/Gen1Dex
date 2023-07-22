@@ -28,51 +28,51 @@
     <string name="bulbasaur_height">y cm</string>
 
     <string name="ivysaur_name">Ivysaur</string>
-    <string name="ivysaur_dex_no">1</string>
+    <string name="ivysaur_dex_no">2</string>
     <string name="ivysaur_desc">Ivysaur Description</string>
     <string name="ivysaur_weight">x kg</string>
     <string name="ivysaur_height">y cm</string>
 
     <string name="venusaur_name">Venusaur</string>
-    <string name="venusaur_dex_no">1</string>
+    <string name="venusaur_dex_no">3</string>
     <string name="venusaur_desc">Venusaur Description</string>
     <string name="venusaur_weight">x kg</string>
     <string name="venusaur_height">y cm</string>
 
     <!-- Charmander Line -->
     <string name="charmander_name">Charmander</string>
-    <string name="charmander_dex_no">1</string>
+    <string name="charmander_dex_no">4</string>
     <string name="charmander_desc">Charmander Description</string>
     <string name="charmander_weight">x kg</string>
     <string name="charmander_height">y cm</string>
 
     <string name="charmeleon_name">Charmeleon</string>
-    <string name="charmeleon_dex_no">1</string>
+    <string name="charmeleon_dex_no">5</string>
     <string name="charmeleon_desc">Charmeleon Description</string>
     <string name="charmeleon_weight">x kg</string>
     <string name="charmeleon_height">y cm</string>
 
     <string name="charizard_name">Charizard</string>
-    <string name="charizard_dex_no">1</string>
+    <string name="charizard_dex_no">6</string>
     <string name="charizard_desc">Charizard Description</string>
     <string name="charizard_weight">x kg</string>
     <string name="charizard_height">y cm</string>
 
     <!-- Squirtle Line -->
     <string name="squirtle_name">Squirtle</string>
-    <string name="squirtle_dex_no">1</string>
+    <string name="squirtle_dex_no">7</string>
     <string name="squirtle_desc">Squirtle Description</string>
     <string name="squirtle_weight">x kg</string>
     <string name="squirtle_height">y cm</string>
 
     <string name="wartortle_name">Wartortle</string>
-    <string name="wartortle_dex_no">1</string>
+    <string name="wartortle_dex_no">8</string>
     <string name="wartortle_desc">Wartortle Description</string>
     <string name="wartortle_weight">x kg</string>
     <string name="wartortle_height">y cm</string>
 
     <string name="blastoise_name">Blastoise</string>
-    <string name="blastoise_dex_no">1</string>
+    <string name="blastoise_dex_no">9</string>
     <string name="blastoise_desc">Blastoise Description</string>
     <string name="blastoise_weight">x kg</string>
     <string name="blastoise_height">y cm</string>
