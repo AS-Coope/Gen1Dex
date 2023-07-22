@@ -76,4 +76,58 @@
     <string name="blastoise_desc">Blastoise Description</string>
     <string name="blastoise_weight">x kg</string>
     <string name="blastoise_height">y cm</string>
+
+    <string name="caterpie_name">Caterpie</string>
+    <string name="caterpie_dex_no">No. 010</string>
+    <string name="caterpie_desc">Caterpie Description</string>
+    <string name="caterpie_weight">x kg</string>
+    <string name="caterpie_height">y cm</string>
+
+    <string name="metapod_name">Metapod</string>
+    <string name="metapod_dex_no">No. 011</string>
+    <string name="metapod_desc">Metapod Description</string>
+    <string name="metapod_weight">x kg</string>
+    <string name="metapod_height">y cm</string>
+
+    <string name="butterfree_name">Butterfree</string>
+    <string name="butterfree_dex_no">No. 012</string>
+    <string name="butterfree_desc">Butterfree Description</string>
+    <string name="butterfree_weight">x kg</string>
+    <string name="butterfree_height">y cm</string>
+
+    <string name="weedle_name">Weedle</string>
+    <string name="weedle_dex_no">No. 013</string>
+    <string name="weedle_desc">Weedle Description</string>
+    <string name="weedle_weight">x kg</string>
+    <string name="weedle_height">y cm</string>
+
+    <string name="kakuna_name">Kakuna</string>
+    <string name="kakuna_dex_no">No. 014</string>
+    <string name="kakuna_desc">Kakuna Description</string>
+    <string name="kakuna_weight">x kg</string>
+    <string name="kakuna_height">y cm</string>
+
+    <string name="beedrill_name">Beedrill</string>
+    <string name="beedrill_dex_no">No. 015</string>
+    <string name="beedrill_desc">Beedrill Description</string>
+    <string name="beedrill_weight">x kg</string>
+    <string name="beedrill_height">y cm</string>
+
+    <string name="pidgey_name">Pidgey</string>
+    <string name="pidgey_dex_no">No. 016</string>
+    <string name="pidgey_desc">Pidgey Description</string>
+    <string name="pidgey_weight">x kg</string>
+    <string name="pidgey_height">y cm</string>
+
+    <string name="pidgeotto_name">Pidgeotto</string>
+    <string name="pidgeotto_dex_no">No. 017</string>
+    <string name="pidgeotto_desc">Pidgeotto Description</string>
+    <string name="pidgeotto_weight">x kg</string>
+    <string name="pidgeotto_height">y cm</string>
+
+    <string name="pidgeot_name">Pidgeot</string>
+    <string name="pidgeot_dex_no">No. 018</string>
+    <string name="pidgeot_desc">Pidgeot Description</string>
+    <string name="pidgeot_weight">x kg</string>
+    <string name="pidgeot_height">y cm</string>
 </resources>
