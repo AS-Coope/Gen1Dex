@@ -34,6 +34,8 @@ class DexAdapter(
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
         val item = dexScrollEntries[position]
 
-
+        holder.dexEntryName.text = item.name.toString()
+        holder.dexEntryNo.text = item.dexNo.toString()
+        holder.dexEntrySprite.setImageResource(item.miniSprite)
     }
 }
