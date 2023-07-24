@@ -2,21 +2,21 @@
     <string name="app_name">GenOneDex</string>
 
     <!--Types-->
-    <string name="fire">Fire</string>
-    <string name="grass">Grass</string>
-    <string name="water">Water</string>
-    <string name="flying">Flying</string>
-    <string name="poison">Poison</string>
-    <string name="electric">Electric</string>
-    <string name="bug">Bug</string>
-    <string name="ice">Ice</string>
-    <string name="ground">Ground</string>
-    <string name="rock">Rock</string>
-    <string name="fighting">Fighting</string>
-    <string name="psychic">Psychic</string>
-    <string name="dragon">Dragon</string>
-    <string name="ghost">Ghost</string>
-    <string name="normal">Normal</string>
+    <string name="type_fire">Fire</string>
+    <string name="type_grass">Grass</string>
+    <string name="type_water">Water</string>
+    <string name="type_flying">Flying</string>
+    <string name="type_poison">Poison</string>
+    <string name="type_electric">Electric</string>
+    <string name="type_bug">Bug</string>
+    <string name="type_ice">Ice</string>
+    <string name="type_ground">Ground</string>
+    <string name="type_rock">Rock</string>
+    <string name="type_fighting">Fighting</string>
+    <string name="type_psychic">Psychic</string>
+    <string name="type_dragon">Dragon</string>
+    <string name="type_ghost">Ghost</string>
+    <string name="type_normal">Normal</string>
 
     <string name="no_type_2">None</string>
 
