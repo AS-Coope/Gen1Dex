@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         val dexScrollEntries = DexDataSource().loadScrollEntry()
 
         binding.mainRecyclerView.layoutManager = LinearLayoutManager(this)
-        binding.mainRecyclerView.adapter = DexAdapter(dexScrollEntries)
+        binding.mainRecyclerView.adapter = DexAdapter(this, dexScrollEntries)
         binding.mainRecyclerView.setHasFixedSize(true)
 
     }
