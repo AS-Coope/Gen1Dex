@@ -28,6 +28,7 @@ class DexAdapter(
 
         override fun onClick(v: View?) {
             Toast.makeText(context, "${dexEntryName.text} clicked!", Toast.LENGTH_SHORT).show()
+
         }
 
 

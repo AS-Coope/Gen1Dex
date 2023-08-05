@@ -1,6 +1,7 @@
 package com.example.genonedex.data
 
 import com.example.genonedex.R
+import com.example.genonedex.model.DexEntry
 import com.example.genonedex.model.DexScrollEntry
 
 class DexDataSource {
@@ -48,7 +49,10 @@ class DexDataSource {
     }
 
     // formats the data to be presented in the description entry page
-    fun loadDescEntry(){
-
+    fun loadDescEntry(): List<DexEntry>{
+        return listOf(
+            DexEntry(
+                R.string.bulbasaur_dex_no, R.drawable.bulbasaur_item_sprite, R.string.bulbasaur_name, R.string.bulbasaur_desc, R.string.bulbasaur_weight, R.string.bulbasaur_height, R.string.type_grass, R.string.type_poison)
+        )
     }
 }
