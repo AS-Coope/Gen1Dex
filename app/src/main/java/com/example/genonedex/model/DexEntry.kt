@@ -7,6 +7,7 @@ data class DexEntry(
     @StringRes val dexNo: Int,
     @DrawableRes val regSprite: Int,
     @StringRes val name: Int,
+    @StringRes val dexSpecies: Int,
     @StringRes val desc: Int,
     @StringRes val weight: Int,
     @StringRes val height: Int,
