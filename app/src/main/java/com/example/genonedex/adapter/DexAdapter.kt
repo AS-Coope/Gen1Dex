@@ -31,7 +31,7 @@ class DexAdapter(
         override fun onClick(v: View?) {
             Toast.makeText(context, "${dexEntryName.text} at $adapterPosition clicked!", Toast.LENGTH_SHORT).show()
             val intent = Intent(context, DetailsActivity::class.java)
-            intent.putExtra("DEX_ENTRY", adapterPosition+1)
+            intent.putExtra("DEX_ENTRY", adapterPosition)
             context.startActivity(intent)
         }
 
