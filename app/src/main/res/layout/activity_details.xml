@@ -17,7 +17,7 @@
 
     <LinearLayout
         android:id="@+id/dexEntryDetailsLayout"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_margin="20dp"
         app:layout_constraintStart_toEndOf="@id/detailsDexImage"
@@ -67,7 +67,7 @@
 
         <com.google.android.material.card.MaterialCardView
             android:id="@+id/dexEntryUnitsCard"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content">
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -83,6 +83,7 @@
                     android:id="@+id/dexEntryHeight"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:layout_marginStart="30dp"
                     android:text="Height"
                     android:textAppearance="?attr/textAppearanceHeadline6"/>
             </LinearLayout>
@@ -100,7 +101,9 @@
             android:id="@+id/dexEntryDetails"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="Lorem ipsum alkdjf adsfjkla aljksdf"/>
+            android:layout_margin="10dp"
+            android:textAppearance="?attr/textAppearanceHeadline6"
+            android:text="Lorem ipsum"/>
     </com.google.android.material.card.MaterialCardView>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
