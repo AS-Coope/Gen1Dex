@@ -1,6 +1,7 @@
 package com.example.genonedex.adapter
 
 import android.content.Context
+import android.content.Intent
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -8,6 +9,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
+import com.example.genonedex.DetailsActivity
 import com.example.genonedex.R
 import com.example.genonedex.model.DexScrollEntry
 
@@ -27,10 +29,11 @@ class DexAdapter(
         }
 
         override fun onClick(v: View?) {
-            Toast.makeText(context, "${dexEntryName.text} clicked!", Toast.LENGTH_SHORT).show()
-
+            Toast.makeText(context, "${dexEntryName.text} at $adapterPosition clicked!", Toast.LENGTH_SHORT).show()
+            val intent = Intent(context, DetailsActivity::class.java)
+            intent.putExtra("DEX_ENTRY", adapterPosition+1)
+            context.startActivity(intent)
         }
-
 
     }
 
