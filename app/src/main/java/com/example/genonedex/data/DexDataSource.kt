@@ -44,8 +44,21 @@ class DexDataSource {
             DexScrollEntry(R.string.nidorino_dex_no, R.drawable.nidorino_item_view, R.string.nidorino_name),
             DexScrollEntry(R.string.nidoking_dex_no, R.drawable.nidoking_item_view, R.string.nidoking_name),
             DexScrollEntry(R.string.clefairy_dex_no, R.drawable.clefairy_item_view, R.string.clefairy_name),
-            DexScrollEntry(R.string.clefable_dex_no, R.drawable.clefable_item_view, R.string.clefable_name)
-        )
+            DexScrollEntry(R.string.clefable_dex_no, R.drawable.clefable_item_view, R.string.clefable_name),
+            DexScrollEntry(R.string.vulpix_dex_no, R.drawable.vulpix_item_view, R.string.vulpix_name),
+            DexScrollEntry(R.string.ninetales_dex_no, R.drawable.ninetales_item_view, R.string.ninetales_name),
+            DexScrollEntry(R.string.jigglypuff_dex_no, R.drawable.jigglypuff_item_view, R.string.jigglypuff_name),
+            DexScrollEntry(R.string.wigglytuff_dex_no, R.drawable.wigglytuff_item_view, R.string.wigglytuff_name),
+            DexScrollEntry(R.string.zubat_dex_no, R.drawable.zubat_item_view, R.string.zubat_name),
+            DexScrollEntry(R.string.golbat_dex_no, R.drawable.golbat_item_view, R.string.golbat_name),
+            DexScrollEntry(R.string.oddish_dex_no, R.drawable.oddish_item_view, R.string.oddish_name),
+            DexScrollEntry(R.string.gloom_dex_no, R.drawable.gloom_item_view, R.string.gloom_name),
+            DexScrollEntry(R.string.vileplume_dex_no, R.drawable.vileplume_item_view, R.string.vileplume_name),
+            DexScrollEntry(R.string.paras_dex_no, R.drawable.paras_item_view, R.string.paras_name),
+            DexScrollEntry(R.string.parasect_dex_no, R.drawable.parasect_item_view, R.string.parasect_name),
+            DexScrollEntry(R.string.venonat_dex_no, R.drawable.venonat_item_view, R.string.venonat_name),
+            DexScrollEntry(R.string.venomoth_dex_no, R.drawable.venomoth_item_view, R.string.venomoth_name)
+            )
     }
 
     // formats the data to be presented in the description entry page

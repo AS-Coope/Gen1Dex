@@ -359,4 +359,127 @@
     </string>
     <string name="clefable_weight">40.0 kg</string>
     <string name="clefable_height">1.3 m</string>
+
+    <!-- Vulpix Line -->
+    <string name="vulpix_name">Vulpix</string>
+    <string name="vulpix_dex_no">No. 037</string>
+    <string name="vulpix_species">Fox Pokemon</string>
+    <string name="vulpix_desc">
+        While young, it has six gorgeous tails. When it grows, several new tails are sprouted.
+    </string>
+    <string name="vulpix_weight">9.9 kg</string>
+    <string name="vulpix_height">0.6 m</string>
+
+    <string name="ninetales_name">Ninetales</string>
+    <string name="ninetales_dex_no">No. 038</string>
+    <string name="ninetales_species">Fox Pokemon</string>
+    <string name="ninetales_desc">
+        It has nine long tails and fur that gleams gold. It is said to live for 1,000 years.
+    </string>
+    <string name="ninetales_weight">19.9 kg</string>
+    <string name="ninetales_height">1.1 m</string>
+
+    <!-- Jigglypuff Line -->
+    <string name="jigglypuff_name">Jigglypuff</string>
+    <string name="jigglypuff_dex_no">No. 039</string>
+    <string name="jigglypuff_species">Balloon Pokemon</string>
+    <string name="jigglypuff_desc">
+        It captivates foes with its huge, round eyes, then lulls them to sleep by singing a soothing melody.
+    </string>
+    <string name="jigglypuff_weight">5.5 kg</string>
+    <string name="jigglypuff_height">0.5 m</string>
+
+    <string name="wigglytuff_name">Wigglytuff</string>
+    <string name="wigglytuff_dex_no">No. 040</string>
+    <string name="wigglytuff_species">Balloon Pokemon</string>
+    <string name="wigglytuff_desc">
+        Its fur is extremely fine, dense, and supple. The exquisitely pleasant fur conveys an image of luxury.
+    </string>
+    <string name="wigglytuff_weight">12.0 kg</string>
+    <string name="wigglytuff_height">1.0 m</string>
+
+    <!-- Zubat Line -->
+    <string name="zubat_name">Zubat</string>
+    <string name="zubat_dex_no">No. 041</string>
+    <string name="zubat_species">Bat Pokemon</string>
+    <string name="zubat_desc">
+        It has no eyes. Instead, it relies on its ultrasonic cries for echo location to flit about in darkness.
+    </string>
+    <string name="zubat_weight">7.5 kg</string>
+    <string name="zubat_height">0.8 m</string>
+
+    <string name="golbat_name">Golbat</string>
+    <string name="golbat_dex_no">No. 042</string>
+    <string name="golbat_species">Bat Pokemon</string>
+    <string name="golbat_desc">
+        It clamps down on its prey with needle-sharp fangs and drains over 10 ounces of blood in one gulp.
+    </string>
+    <string name="golbat_weight">55.0 kg</string>
+    <string name="golbat_height">1.6 m</string>
+
+    <!-- Oddish Line -->
+    <string name="oddish_name">Oddish</string>
+    <string name="oddish_dex_no">No. 043</string>
+    <string name="oddish_species">Weed Pokemon</string>
+    <string name="oddish_desc">
+        Its scientific name is “Oddium Wanderus.” At night, it is said to walk nearly 1,000 feet on its two roots.
+    </string>
+    <string name="oddish_weight">5.4 kg</string>
+    <string name="oddish_height">0.5 m</string>
+
+    <string name="gloom_name">Golbat</string>
+    <string name="gloom_dex_no">No. 044</string>
+    <string name="gloom_species">Weed Pokemon</string>
+    <string name="gloom_desc">
+        Its pistils exude an incredibly foul odor. The horrid stench can cause fainting at a distance of 1.25 miles.
+    </string>
+    <string name="gloom_weight">8.6 kg</string>
+    <string name="gloom_height">0.8 m</string>
+
+    <string name="vileplume_name">Vileplume</string>
+    <string name="vileplume_dex_no">No. 045</string>
+    <string name="vileplume_species">Flower Pokemon</string>
+    <string name="vileplume_desc">
+        Its petals are the largest in the world. It fiendishly scatters allergy-causing pollen from its petals.
+    </string>
+    <string name="vileplume_weight">18.6 kg</string>
+    <string name="vileplume_height">1.2 m</string>
+
+    <!-- Paras Line -->
+    <string name="paras_name">Paras</string>
+    <string name="paras_dex_no">No. 046</string>
+    <string name="paras_species">Mushroom Pokemon</string>
+    <string name="paras_desc">
+        Growing out of the bug’s back are mushrooms called tochukaso. The mushrooms grow with the bug host.
+    </string>
+    <string name="paras_weight">5.4 kg</string>
+    <string name="paras_height">0.3 m</string>
+
+    <string name="parasect_name">Parasect</string>
+    <string name="parasect_dex_no">No. 047</string>
+    <string name="parasect_species">Mushroom Pokemon</string>
+    <string name="parasect_desc">
+        It scatters toxic spores from the mushroom cap. In China, the spores are used as herbal medicine.
+    </string>
+    <string name="parasect_weight">29.5 kg</string>
+    <string name="parasect_height">1.0 m</string>
+
+    <!-- Venonat Line -->
+    <string name="venonat_name">Venonat</string>
+    <string name="venonat_dex_no">No. 048</string>
+    <string name="venonat_species">Insect Pokemon</string>
+    <string name="venonat_desc">
+        Its eyes act as radar, enabling it to be active in darkness. The eyes can also shoot powerful beams.
+    </string>
+    <string name="venonat_weight">30.0 kg</string>
+    <string name="venonat_height">1.0 m</string>
+
+    <string name="venomoth_name">Venomoth</string>
+    <string name="venomoth_dex_no">No. 049</string>
+    <string name="venomoth_species">Poison Moth Pokemon</string>
+    <string name="venomoth_desc">
+        The wings are covered with dustlike scales. Every time it flaps its wings, it looses highly toxic dust.
+    </string>
+    <string name="venomoth_weight">12.5 kg</string>
+    <string name="venomoth_height">1.5 m</string>
 </resources>
