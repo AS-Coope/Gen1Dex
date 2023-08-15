@@ -57,7 +57,21 @@ class DexDataSource {
             DexScrollEntry(R.string.paras_dex_no, R.drawable.paras_item_view, R.string.paras_name),
             DexScrollEntry(R.string.parasect_dex_no, R.drawable.parasect_item_view, R.string.parasect_name),
             DexScrollEntry(R.string.venonat_dex_no, R.drawable.venonat_item_view, R.string.venonat_name),
-            DexScrollEntry(R.string.venomoth_dex_no, R.drawable.venomoth_item_view, R.string.venomoth_name)
+            DexScrollEntry(R.string.venomoth_dex_no, R.drawable.venomoth_item_view, R.string.venomoth_name),
+            DexScrollEntry(R.string.diglett_dex_no, R.drawable.diglett_item_view, R.string.diglett_name),
+            DexScrollEntry(R.string.dugtrio_dex_no, R.drawable.dugtrio_item_view, R.string.dugtrio_name),
+            DexScrollEntry(R.string.meowth_dex_no, R.drawable.meowth_item_view, R.string.meowth_name),
+            DexScrollEntry(R.string.persian_dex_no, R.drawable.persian_item_view, R.string.persian_name),
+            DexScrollEntry(R.string.psyduck_dex_no, R.drawable.psyduck_item_view, R.string.psyduck_name),
+            DexScrollEntry(R.string.golduck_dex_no, R.drawable.golduck_item_view, R.string.golduck_name),
+            DexScrollEntry(R.string.mankey_dex_no, R.drawable.mankey_item_view, R.string.mankey_name),
+            DexScrollEntry(R.string.primeape_dex_no, R.drawable.primeape_item_view, R.string.primeape_name),
+            DexScrollEntry(R.string.growlithe_dex_no, R.drawable.growlithe_item_view, R.string.growlithe_name),
+            DexScrollEntry(R.string.arcanine_dex_no, R.drawable.arcanine_item_view, R.string.arcanine_name),
+            DexScrollEntry(R.string.poliwag_dex_no, R.drawable.poliwag_item_view, R.string.poliwag_name),
+            DexScrollEntry(R.string.poliwhirl_dex_no, R.drawable.poliwhirl_item_view, R.string.poliwhirl_name),
+            DexScrollEntry(R.string.poliwrath_dex_no, R.drawable.poliwrath_item_view, R.string.poliwrath_name)
+
             )
     }
 
