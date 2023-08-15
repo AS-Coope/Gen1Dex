@@ -482,4 +482,127 @@
     </string>
     <string name="venomoth_weight">12.5 kg</string>
     <string name="venomoth_height">1.5 m</string>
+
+    <!-- Diglett Line -->
+    <string name="diglett_name">Diglett</string>
+    <string name="diglett_dex_no">No. 050</string>
+    <string name="diglett_species">Mole Pokemon</string>
+    <string name="diglett_desc">
+        It burrows through the ground at a shallow depth. It leaves raised earth in its wake, making it easy to spot.
+    </string>
+    <string name="diglett_weight">0.8 kg</string>
+    <string name="diglett_height">0.2 m</string>
+
+    <string name="dugtrio_name">Dugtrio</string>
+    <string name="dugtrio_dex_no">No. 051</string>
+    <string name="dugtrio_species">Mole Pokemon</string>
+    <string name="dugtrio_desc">
+        In battle, it digs through the ground and strikes the unsuspecting foe from an unexpected direction.
+    </string>
+    <string name="dugtrio_weight">33.3 kg</string>
+    <string name="dugtrio_height">0.7 m</string>
+
+    <!-- Meowth Line -->
+    <string name="meowth_name">Meowth</string>
+    <string name="meowth_dex_no">No. 052</string>
+    <string name="meowth_species">Scratch Cat Pokemon</string>
+    <string name="meowth_desc">
+        All it does is sleep during the daytime. At night, it patrols its territory with its eyes aglow.
+    </string>
+    <string name="meowth_weight">4.2 kg</string>
+    <string name="meowth_height">0.4 m</string>
+
+    <string name="persian_name">Persian</string>
+    <string name="persian_dex_no">No. 053</string>
+    <string name="persian_species">Classy Cat Pokemon</string>
+    <string name="persian_desc">
+        Has a vicious temperament. Beware if it raises its tail straight up. It is a signal that it is about to pounce and bite.
+    </string>
+    <string name="persian_weight">32.0 kg</string>
+    <string name="persian_height">1.0 m</string>
+
+    <!-- Psyduck Line -->
+    <string name="psyduck_name">Psyduck</string>
+    <string name="psyduck_dex_no">No. 054</string>
+    <string name="psyduck_species">Duck Pokemon</string>
+    <string name="psyduck_desc">
+        It is constantly wracked by a headache. When the headache turns intense, it begins using mysterious powers.
+    </string>
+    <string name="psyduck_weight">19.6 kg</string>
+    <string name="psyduck_height">0.8 m</string>
+
+    <string name="golduck_name">Golduck</string>
+    <string name="golduck_dex_no">No. 055</string>
+    <string name="golduck_species">Duck Pokemon</string>
+    <string name="golduck_desc">
+        The forelegs are webbed, helping to make it an adept swimmer. It can be seen swimming elegantly in lakes, etc.
+    </string>
+    <string name="golduck_weight">76.6 kg</string>
+    <string name="golduck_height">1.7 m</string>
+
+    <!-- Mankey Line -->
+    <string name="mankey_name">Mankey</string>
+    <string name="mankey_dex_no">No. 056</string>
+    <string name="mankey_species">Pig Monkey Pokemon</string>
+    <string name="mankey_desc">
+        Light and agile on its feet, and ferocious in temperament. When angered, it flies into an uncontrollable frenzy.
+    </string>
+    <string name="mankey_weight">28.0 kg</string>
+    <string name="mankey_height">0.5 m</string>
+
+    <string name="primeape_name">Primeape</string>
+    <string name="primeape_dex_no">No. 057</string>
+    <string name="primeape_species">Pig Monkey Pokemon</string>
+    <string name="primeape_desc">
+        It is always outrageously furious. If it gives chase, it will tenaciously track the target no matter how far.
+    </string>
+    <string name="primeape_weight">32.0 kg</string>
+    <string name="primeape_height">1.0 m</string>
+
+    <!-- Growlithe Line -->
+    <string name="growlithe_name">Growlithe</string>
+    <string name="growlithe_dex_no">No. 058</string>
+    <string name="growlithe_species">Puppy Pokemon</string>
+    <string name="growlithe_desc">
+        Very friendly and faithful to people. It will try to repel enemies by barking and biting.
+    </string>
+    <string name="growlithe_weight">19.0 kg</string>
+    <string name="growlithe_height">0.7 m</string>
+
+    <string name="arcanine_name">Arcanine</string>
+    <string name="arcanine_dex_no">No. 059</string>
+    <string name="arcanine_species">Legendary Pokemon</string>
+    <string name="arcanine_desc">
+        A POKéMON that is described in Chinese legends. It is said to race at an unbelievable speed.
+    </string>
+    <string name="arcanine_weight">155.0 kg</string>
+    <string name="arcanine_height">1.9 m</string>
+
+    <!-- Poliwag Line -->
+    <string name="poliwag_name">Poliwag</string>
+    <string name="poliwag_dex_no">No. 060</string>
+    <string name="poliwag_species">Tadpole Pokemon</string>
+    <string name="poliwag_desc">
+        Its slick black skin is thin and damp. A part of its internal organs can be seen through the skin as a spiral pattern.
+    </string>
+    <string name="poliwag_weight">12.4 kg</string>
+    <string name="poliwag_height">0.6 m</string>
+
+    <string name="poliwhirl_name">Poliwhirl</string>
+    <string name="poliwhirl_dex_no">No. 061</string>
+    <string name="poliwhirl_species">Tadpole Pokemon</string>
+    <string name="poliwhirl_desc">
+        Its two legs are well developed. Even though it can live on the ground, it prefers living in water.
+    </string>
+    <string name="poliwhirl_weight">20.0 kg</string>
+    <string name="poliwhirl_height">1.0 m</string>
+
+    <string name="poliwrath_name">Poliwrath</string>
+    <string name="poliwrath_dex_no">No. 062</string>
+    <string name="poliwrath_species">Tadpole Pokemon</string>
+    <string name="poliwrath_desc">
+        An adept swimmer, it knows the front crawl, butterfly, and more. It is faster than the best human swimmers.
+    </string>
+    <string name="poliwrath_weight">54.0 kg</string>
+    <string name="poliwrath_height">1.3 m</string>
 </resources>
