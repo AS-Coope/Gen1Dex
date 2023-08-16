@@ -736,4 +736,262 @@
     </string>
     <string name="golem_weight">300.0 kg</string>
     <string name="golem_height">1.4 m</string>
+
+    <!-- Ponyta Line -->
+    <string name="ponyta_name">Ponyta</string>
+    <string name="ponyta_dex_no">No. 077</string>
+    <string name="ponyta_species">Fire Horse Pokemon</string>
+    <string name="ponyta_desc">
+        Its body is light, and its legs are incredibly powerful. It can clear Ayers Rock in one leap.
+    </string>
+    <string name="ponyta_weight">30.0 kg</string>
+    <string name="ponyta_height">1.0 m</string>
+
+    <string name="rapidash_name">Rapidash</string>
+    <string name="rapidash_dex_no">No. 078</string>
+    <string name="rapidash_species">Fire Horse Pokemon</string>
+    <string name="rapidash_desc">
+        It can gallop at a top speed of 150 miles per hour. It can race as fast as a bullet train while ablaze.
+    </string>
+    <string name="rapidash_weight">95.0 kg</string>
+    <string name="rapidash_height">1.7 m</string>
+
+    <!-- Slowpoke Line -->
+    <string name="slowpoke_name">Slowpoke</string>
+    <string name="slowpoke_dex_no">No. 079</string>
+    <string name="slowpoke_species">Dopey Pokemon</string>
+    <string name="slowpoke_desc">
+        It is always vacantly lost in thought, but no one knows what it is thinking about. It is good at fishing with its tail.
+    </string>
+    <string name="slowpoke_weight">36.0 kg</string>
+    <string name="slowpoke_height">1.2 m</string>
+
+    <string name="slowbro_name">Slowbro</string>
+    <string name="slowbro_dex_no">No. 080</string>
+    <string name="slowbro_species">Hermit Crab Pokemon</string>
+    <string name="slowbro_desc">
+        When a SLOWPOKE went hunting in the sea, its tail was bitten by a SHELLDER. That made it evolve into SLOWBRO.
+    </string>
+    <string name="slowbro_weight">78.5 kg</string>
+    <string name="slowbro_height">1.6 m</string>
+
+    <!-- Magnemite Line -->
+    <string name="magnemite_name">Magnemite</string>
+    <string name="magnemite_dex_no">No. 081</string>
+    <string name="magnemite_species">Magnet Pokemon</string>
+    <string name="magnemite_desc">
+        It moves while constantly hovering. It discharges THUNDER WAVE and so on from the units at its sides.
+    </string>
+    <string name="magnemite_weight">6.0 kg</string>
+    <string name="magnemite_height">0.3 m</string>
+
+    <string name="magneton_name">Magneton</string>
+    <string name="magneton_dex_no">No. 082</string>
+    <string name="magneton_species">Magnet Pokemon</string>
+    <string name="magneton_desc">
+        A linked cluster formed of several MAGNEMITE. It discharges powerful magnetic waves at high voltage.
+    </string>
+    <string name="magneton_weight">60.0 kg</string>
+    <string name="magneton_height">1.0 m</string>
+
+    <!-- Farfetch'd Line -->
+    <string name="farfetchd_name">Farfetch\'d</string>
+    <string name="farfetchd_dex_no">No. 083</string>
+    <string name="farfetchd_species">Wild Duck Pokemon</string>
+    <string name="farfetchd_desc">
+        It always walks about with a plant stalk clamped in its beak. The stalk is used for building its nest.
+    </string>
+    <string name="farfetchd_weight">15.0 kg</string>
+    <string name="farfetchd_height">0.8 m</string>
+
+    <!-- Doduo Line -->
+    <string name="doduo_name">Doduo</string>
+    <string name="doduo_dex_no">No. 084</string>
+    <string name="doduo_species">Twin Bird Pokemon</string>
+    <string name="doduo_desc">
+        A two-headed POKéMON that was discovered as a sudden mutation. It runs at a pace of over 60 miles per hour.
+    </string>
+    <string name="doduo_weight">39.2 kg</string>
+    <string name="doduo_height">1.4 m</string>
+
+    <string name="dodrio_name">Dodrio</string>
+    <string name="dodrio_dex_no">No. 085</string>
+    <string name="dodrio_species">Triple Bird Pokemon</string>
+    <string name="dodrio_desc">
+        An odd species that is rarely found. The three heads respectively represent joy, sadness, and anger.
+    </string>
+    <string name="dodrio_weight">85.2 kg</string>
+    <string name="dodrio_height">1.8 m</string>
+
+    <!-- Seel Line -->
+    <string name="seel_name">Seel</string>
+    <string name="seel_dex_no">No. 086</string>
+    <string name="seel_species">Sea Lion Pokemon</string>
+    <string name="seel_desc">
+        Covered with light blue fur, its hide is thick and tough. It is active in bitter cold of minus 40 degrees Fahrenheit.
+    </string>
+    <string name="seel_weight">90.0 kg</string>
+    <string name="seel_height">1.1 m</string>
+
+    <string name="dewgong_name">Dewgong</string>
+    <string name="dewgong_dex_no">No. 087</string>
+    <string name="dewgong_species">Sea Lion Pokemon</string>
+    <string name="dewgong_desc">
+        Its body is covered with a pure white fur. The colder the weather, the more active it becomes.
+    </string>
+    <string name="dewgong_weight">120.0 kg</string>
+    <string name="dewgong_height">1.7 m</string>
+
+    <!-- Grimer Line -->
+    <string name="grimer_name">Grimer</string>
+    <string name="grimer_dex_no">No. 088</string>
+    <string name="grimer_species">Sludge Pokemon</string>
+    <string name="grimer_desc">
+        Sludge exposed to X rays from the moon transformed into GRIMER. It loves feeding on filthy things.
+    </string>
+    <string name="grimer_weight">30.0 kg</string>
+    <string name="grimer_height">0.9 m</string>
+
+    <string name="muk_name">Muk</string>
+    <string name="muk_dex_no">No. 089</string>
+    <string name="muk_species">Sludge Pokemon</string>
+    <string name="muk_desc">
+        It is usually undetectable because it blends in with the ground. Touching it can cause terrible poisoning.
+    </string>
+    <string name="muk_weight">30.0 kg</string>
+    <string name="muk_height">1.2 m</string>
+
+    <!-- Shellder Line -->
+    <string name="shellder_name">Shellder</string>
+    <string name="shellder_dex_no">No. 090</string>
+    <string name="shellder_species">Bivalve Pokemon</string>
+    <string name="shellder_desc">
+        It is encased in a shell that is harder than diamond. Inside, however, it is surprisingly tender.
+    </string>
+    <string name="shellder_weight">4.0 kg</string>
+    <string name="shellder_height">0.3 m</string>
+
+    <string name="cloyster_name">Cloyster</string>
+    <string name="cloyster_dex_no">No. 091</string>
+    <string name="cloyster_species">Bivalve Pokemon</string>
+    <string name="cloyster_desc">
+        Its shell is extremely hard. It cannot be shattered, even with a bomb. The shell opens only when it is attacking.
+    </string>
+    <string name="cloyster_weight">132.5 kg</string>
+    <string name="cloyster_height">1.5 m</string>
+
+    <!-- Ghastly Line -->
+    <string name="ghastly_name">Ghastly</string>
+    <string name="ghastly_dex_no">No. 092</string>
+    <string name="ghastly_species">Gas Pokemon</string>
+    <string name="ghastly_desc">
+        A being that exists as a thin gas. It can topple an Indian elephant by enveloping the prey in two seconds.
+    </string>
+    <string name="ghastly_weight">0.1 kg</string>
+    <string name="ghastly_height">1.3 m</string>
+
+    <string name="haunter_name">Haunter</string>
+    <string name="haunter_dex_no">No. 093</string>
+    <string name="haunter_species">Gas Pokemon</string>
+    <string name="haunter_desc">
+        If you get the feeling of being watched in darkness when nobody is around, HAUNTER is there.
+    </string>
+    <string name="haunter_weight">0.1 kg</string>
+    <string name="haunter_height">1.6 m</string>
+
+    <string name="gengar_name">Gengar</string>
+    <string name="gengar_dex_no">No. 094</string>
+    <string name="gengar_species">Shadow Pokemon</string>
+    <string name="gengar_desc">
+        It is said to emerge from darkness to steal the lives of those who become lost in mountains.
+    </string>
+    <string name="gengar_weight">40.5 kg</string>
+    <string name="gengar_height">1.5 m</string>
+
+    <!-- Onix Line -->
+    <string name="onix_name">Onix</string>
+    <string name="onix_dex_no">No. 095</string>
+    <string name="onix_species">Rock Snake Pokemon</string>
+    <string name="onix_desc">
+        It usually lives underground. It searches for food while boring its way through the ground at 50 miles per hour.
+    </string>
+    <string name="onix_weight">210.0 kg</string>
+    <string name="onix_height">8.8 m</string>
+
+    <!-- Drowzee Line -->
+    <string name="drowzee_name">Drowzee</string>
+    <string name="drowzee_dex_no">No. 096</string>
+    <string name="drowzee_species">Hypnosis Pokemon</string>
+    <string name="drowzee_desc">
+        A descendent of the legendary animal baku, which is said to eat dreams. It is skilled at hypnotism.
+    </string>
+    <string name="drowzee_weight">32.4 kg</string>
+    <string name="drowzee_height">1.0 m</string>
+
+    <string name="hypno_name">Hypno</string>
+    <string name="hypno_dex_no">No. 097</string>
+    <string name="hypno_species">Hypnosis  Pokemon</string>
+    <string name="hypno_desc">
+        It carries a pendulum-like device. There once was an incident in which it took away a child it hypnotized.
+    </string>
+    <string name="hypno_weight">75.6 kg</string>
+    <string name="hypno_height">1.6 m</string>
+
+    <!-- Krabby Line -->
+    <string name="krabby_name">Krabby</string>
+    <string name="krabby_dex_no">No. 098</string>
+    <string name="krabby_species">River Crab Pokemon</string>
+    <string name="krabby_desc">
+        It can be found near the sea. The large pincers grow back if they are torn out of their sockets.
+    </string>
+    <string name="krabby_weight">6.5 kg</string>
+    <string name="krabby_height">0.4 m</string>
+
+    <string name="kingler_name">Kingler</string>
+    <string name="kingler_dex_no">No. 099</string>
+    <string name="kingler_species">Pincer  Pokemon</string>
+    <string name="kingler_desc">
+        Its large and hard pincer has 10,000-horsepower strength. However, being so big, it is unwieldy to move.
+    </string>
+    <string name="kingler_weight">60.0 kg</string>
+    <string name="kingler_height">1.3 m</string>
+
+    <!-- Voltorb Line -->
+    <string name="voltorb_name">Voltorb</string>
+    <string name="voltorb_dex_no">No. 100</string>
+    <string name="voltorb_species">Ball Pokemon</string>
+    <string name="voltorb_desc">
+        A life-form whose identity is unknown. It is said to SCREECH or suddenly SELFDESTRUCT.
+    </string>
+    <string name="voltorb_weight">10.4 kg</string>
+    <string name="voltorb_height">0.5 m</string>
+
+    <string name="electrode_name">Electrode</string>
+    <string name="electrode_dex_no">No. 101</string>
+    <string name="electrode_species">Ball Pokemon</string>
+    <string name="electrode_desc">
+        It explodes in response to even minor stimuli. It is feared, with the nickname of “The Bomb Ball.”
+    </string>
+    <string name="electrode_weight">66.6 kg</string>
+    <string name="electrode_height">1.2 m</string>
+
+    <!-- Exeggcute Line -->
+    <string name="exeggcute_name">Exeggcute</string>
+    <string name="exeggcute_dex_no">No. 102</string>
+    <string name="exeggcute_species">Egg Pokemon</string>
+    <string name="exeggcute_desc">
+        Even though it appears to be eggs of some sort, it was discovered to be a life-form more like plant seeds.
+    </string>
+    <string name="exeggcute_weight">2.5 kg</string>
+    <string name="exeggcute_height">0.4 m</string>
+
+    <string name="exeggutor_name">Exeggutor</string>
+    <string name="exeggutor_dex_no">No. 103</string>
+    <string name="exeggutor_species">Coconut Pokemon</string>
+    <string name="exeggutor_desc">
+        It is called “The Walking Tropical Rainforest.” Each of the nuts has a face and a will of its own.
+    </string>
+    <string name="exeggutor_weight">120.0 kg</string>
+    <string name="exeggutor_height">2.0 m</string>
+
 </resources>
