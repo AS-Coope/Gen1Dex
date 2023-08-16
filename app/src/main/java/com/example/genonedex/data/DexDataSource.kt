@@ -70,9 +70,22 @@ class DexDataSource {
             DexScrollEntry(R.string.arcanine_dex_no, R.drawable.arcanine_item_view, R.string.arcanine_name),
             DexScrollEntry(R.string.poliwag_dex_no, R.drawable.poliwag_item_view, R.string.poliwag_name),
             DexScrollEntry(R.string.poliwhirl_dex_no, R.drawable.poliwhirl_item_view, R.string.poliwhirl_name),
-            DexScrollEntry(R.string.poliwrath_dex_no, R.drawable.poliwrath_item_view, R.string.poliwrath_name)
-
-            )
+            DexScrollEntry(R.string.poliwrath_dex_no, R.drawable.poliwrath_item_view, R.string.poliwrath_name),
+            DexScrollEntry(R.string.abra_dex_no, R.drawable.abra_item_view, R.string.abra_name),
+            DexScrollEntry(R.string.kadabra_dex_no, R.drawable.kadabra_item_view, R.string.kadabra_name),
+            DexScrollEntry(R.string.alakazam_dex_no, R.drawable.alakazam_item_view, R.string.alakazam_name),
+            DexScrollEntry(R.string.machop_dex_no, R.drawable.machop_item_view, R.string.machop_name),
+            DexScrollEntry(R.string.machoke_dex_no, R.drawable.machoke_item_view, R.string.machoke_name),
+            DexScrollEntry(R.string.machamp_dex_no, R.drawable.machamp_item_view, R.string.machamp_name),
+            DexScrollEntry(R.string.bellsprout_dex_no, R.drawable.bellsprout_item_view, R.string.bellsprout_name),
+            DexScrollEntry(R.string.weepinbell_dex_no, R.drawable.weepinbell_item_view, R.string.weepinbell_name),
+            DexScrollEntry(R.string.victreebel_dex_no, R.drawable.victreebel_item_view, R.string.victreebel_name),
+            DexScrollEntry(R.string.tentacool_dex_no, R.drawable.tentacool_item_view, R.string.tentacool_name),
+            DexScrollEntry(R.string.tentacruel_dex_no, R.drawable.tentacruel_item_view, R.string.tentacruel_name),
+            DexScrollEntry(R.string.geodude_dex_no, R.drawable.geodude_item_view, R.string.geodude_name),
+            DexScrollEntry(R.string.graveler_dex_no, R.drawable.graveler_item_view, R.string.graveler_name),
+            DexScrollEntry(R.string.golem_dex_no, R.drawable.golem_item_view, R.string.golem_name)
+        )
     }
 
     // formats the data to be presented in the description entry page
