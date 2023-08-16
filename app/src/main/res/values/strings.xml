@@ -605,4 +605,135 @@
     </string>
     <string name="poliwrath_weight">54.0 kg</string>
     <string name="poliwrath_height">1.3 m</string>
+
+    <!-- Abra Line -->
+    <string name="abra_name">Abra</string>
+    <string name="abra_dex_no">No. 063</string>
+    <string name="abra_species">Psi Pokemon</string>
+    <string name="abra_desc">
+        It sleeps for 18 hours a day. It uses a variety of extrasensory powers even while asleep.
+    </string>
+    <string name="abra_weight">19.5 kg</string>
+    <string name="abra_height">0.9 m</string>
+
+    <string name="kadabra_name">Kadabra</string>
+    <string name="kadabra_dex_no">No. 064</string>
+    <string name="kadabra_species">Psi Pokemon</string>
+    <string name="kadabra_desc">
+        It happened one morning - a boy with extrasensory powers awoke in bed transformed into KADABRA.
+    </string>
+    <string name="kadabra_weight">56.5 kg</string>
+    <string name="kadabra_height">1.3 m</string>
+
+    <string name="alakazam_name">Alakazam</string>
+    <string name="alakazam_dex_no">No. 065</string>
+    <string name="alakazam_species">Psi Pokemon</string>
+    <string name="alakazam_desc">
+        It does not like physical attacks very much. Instead, it freely uses extrasensory powers to defeat foes.
+    </string>
+    <string name="alakazam_weight">48.0 kg</string>
+    <string name="alakazam_height">1.5 m</string>
+
+    <!-- Machop Line -->
+    <string name="machop_name">Machop</string>
+    <string name="machop_dex_no">No. 066</string>
+    <string name="machop_species">Superpower Pokemon</string>
+    <string name="machop_desc">
+        Its whole body is composed of muscles. Even though it’s the size of a human child, it can hurl 100 grown-ups.
+    </string>
+    <string name="machop_weight">19.5 kg</string>
+    <string name="machop_height">0.8 m</string>
+
+    <string name="machoke_name">Machoke</string>
+    <string name="machoke_dex_no">No. 067</string>
+    <string name="machoke_species">Superpower Pokemon</string>
+    <string name="machoke_desc">
+        Its formidable body never gets tired. It helps people by doing work such as the moving of heavy goods.
+    </string>
+    <string name="machoke_weight">70.5 kg</string>
+    <string name="machoke_height">1.5 m</string>
+
+    <string name="machamp_name">Machamp</string>
+    <string name="machamp_dex_no">No. 068</string>
+    <string name="machamp_species">Psi Pokemon</string>
+    <string name="machamp_desc">
+        Its four ruggedly developed arms can launch a flurry of 1,000 punches in just two seconds.
+    </string>
+    <string name="machamp_weight">130.0 kg</string>
+    <string name="machamp_height">1.6 m</string>
+
+    <!-- Bellsprout Line -->
+    <string name="bellsprout_name">Bellsprout</string>
+    <string name="bellsprout_dex_no">No. 069</string>
+    <string name="bellsprout_species">Flower Pokemon</string>
+    <string name="bellsprout_desc">
+        Its bud looks like a human face. Because of the bud, it is rumored to be a type of legendary mandrake plant.
+    </string>
+    <string name="bellsprout_weight">4.0 kg</string>
+    <string name="bellsprout_height">0.7 m</string>
+
+    <string name="weepinbell_name">Weepinbell</string>
+    <string name="weepinbell_dex_no">No. 070</string>
+    <string name="weepinbell_species">Flycatcher Pokemon</string>
+    <string name="weepinbell_desc">
+        The leafy parts act as cutters for slashing foes. It spits a fluid that dissolves everything.
+    </string>
+    <string name="weepinbell_weight">6.4 kg</string>
+    <string name="weepinbell_height">1.0 m</string>
+
+    <string name="victreebell_name">Victreebell</string>
+    <string name="victreebell_dex_no">No. 071</string>
+    <string name="victreebell_species">Flycatcher Pokemon</string>
+    <string name="victreebell_desc">
+        Lures prey into its mouth with a honeylike aroma. The helpless prey is melted with a dissolving fluid.
+    </string>
+    <string name="victreebell_weight">15.5 kg</string>
+    <string name="victreebell_height">1.7 m</string>
+
+    <!-- Tentacool Line -->
+    <string name="tentacool_name">Tentacool</string>
+    <string name="tentacool_dex_no">No. 072</string>
+    <string name="tentacool_species">Jellyfish Pokemon</string>
+    <string name="tentacool_desc">
+        Its eyes are as transparent as crystals. From them, it shoots mysterious beams of light.
+    </string>
+    <string name="tentacool_weight">45.5 kg</string>
+    <string name="tentacool_height">0.9 m</string>
+
+    <string name="tentacruel_name">Tentacruel</string>
+    <string name="tentacruel_dex_no">No. 073</string>
+    <string name="tentacruel_species">Jellyfish Pokemon</string>
+    <string name="tentacruel_desc">
+        It has 80 tentacles that move about freely. They can sting, causing poisoning and sharp, stabbing pain.
+    </string>
+    <string name="tentacruel_weight">55.0 kg</string>
+    <string name="tentacruel_height">1.6 m</string>
+
+    <!-- Geodude Line -->
+    <string name="geodude_name">Geodude</string>
+    <string name="geodude_dex_no">No. 074</string>
+    <string name="geodude_species">Rock Pokemon</string>
+    <string name="geodude_desc">
+        Its round form makes it easy to pick up. Some people have used them to hurl at each other in a snowball fight.
+    </string>
+    <string name="geodude_weight">20.0 kg</string>
+    <string name="geodude_height">0.4 m</string>
+
+    <string name="graveler_name">Graveler</string>
+    <string name="graveler_dex_no">No. 075</string>
+    <string name="graveler_species">Rock Pokemon</string>
+    <string name="graveler_desc">
+        Be careful while hiking on mountain trails. GRAVELER may come rolling down the path without slowing.
+    </string>
+    <string name="graveler_weight">105.0 kg</string>
+    <string name="graveler_height">1.0 m</string>
+
+    <string name="golem_name">Golem</string>
+    <string name="golem_dex_no">No. 076</string>
+    <string name="golem_species">Megaton Pokemon</string>
+    <string name="golem_desc">
+        It is enclosed in a hard shell that is as rugged as slabs of rock. It sheds skin once a year to grow larger.
+    </string>
+    <string name="golem_weight">300.0 kg</string>
+    <string name="golem_height">1.4 m</string>
 </resources>
