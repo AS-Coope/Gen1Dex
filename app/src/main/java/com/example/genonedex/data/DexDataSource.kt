@@ -100,7 +100,18 @@ class DexDataSource {
             DexScrollEntry(R.string.muk_dex_no, R.drawable.muk_item_view, R.string.muk_name),
             DexScrollEntry(R.string.shellder_dex_no, R.drawable.shellder_item_view, R.string.shellder_name),
             DexScrollEntry(R.string.cloyster_dex_no, R.drawable.cloyster_item_view, R.string.cloyster_name),
-            DexScrollEntry(R.string.ghastly_dex_no, R.drawable.gastly_item_view, R.string.ghastly_name),
+            DexScrollEntry(R.string.gastly_dex_no, R.drawable.gastly_item_view, R.string.gastly_name),
+            DexScrollEntry(R.string.haunter_dex_no, R.drawable.haunter_item_view, R.string.haunter_name),
+            DexScrollEntry(R.string.gengar_dex_no, R.drawable.gengar_item_view, R.string.gengar_name),
+            DexScrollEntry(R.string.onix_dex_no, R.drawable.onix_item_view, R.string.onix_name),
+            DexScrollEntry(R.string.drowzee_dex_no, R.drawable.drowzee_item_view, R.string.drowzee_name),
+            DexScrollEntry(R.string.hypno_dex_no, R.drawable.hypno_item_view, R.string.hypno_name),
+            DexScrollEntry(R.string.krabby_dex_no, R.drawable.krabby_item_view, R.string.krabby_name),
+            DexScrollEntry(R.string.kingler_dex_no, R.drawable.kingler_item_view, R.string.kingler_name),
+            DexScrollEntry(R.string.voltorb_dex_no, R.drawable.voltorb_item_view, R.string.voltorb_name),
+            DexScrollEntry(R.string.electrode_dex_no, R.drawable.electrode_item_view, R.string.electrode_name),
+            DexScrollEntry(R.string.exeggcute_dex_no, R.drawable.exeggcute_item_view, R.string.exeggcute_name),
+            DexScrollEntry(R.string.exeggutor_dex_no, R.drawable.exeggutor_item_view, R.string.exeggutor_name)
         )
     }
 
