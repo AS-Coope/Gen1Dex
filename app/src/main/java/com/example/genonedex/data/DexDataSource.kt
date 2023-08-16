@@ -84,7 +84,23 @@ class DexDataSource {
             DexScrollEntry(R.string.tentacruel_dex_no, R.drawable.tentacruel_item_view, R.string.tentacruel_name),
             DexScrollEntry(R.string.geodude_dex_no, R.drawable.geodude_item_view, R.string.geodude_name),
             DexScrollEntry(R.string.graveler_dex_no, R.drawable.graveler_item_view, R.string.graveler_name),
-            DexScrollEntry(R.string.golem_dex_no, R.drawable.golem_item_view, R.string.golem_name)
+            DexScrollEntry(R.string.golem_dex_no, R.drawable.golem_item_view, R.string.golem_name),
+            DexScrollEntry(R.string.ponyta_dex_no, R.drawable.ponyta_item_view, R.string.ponyta_name),
+            DexScrollEntry(R.string.rapidash_dex_no, R.drawable.rapidash_item_view, R.string.rapidash_name),
+            DexScrollEntry(R.string.slowpoke_dex_no, R.drawable.slowpoke_item_view, R.string.slowpoke_name),
+            DexScrollEntry(R.string.slowbro_dex_no, R.drawable.slowbro_item_view, R.string.slowbro_name),
+            DexScrollEntry(R.string.magnemite_dex_no, R.drawable.magnemite_item_view, R.string.magnemite_name),
+            DexScrollEntry(R.string.magneton_dex_no, R.drawable.magneton_item_view, R.string.magneton_name),
+            DexScrollEntry(R.string.farfetchd_dex_no, R.drawable.farfetchd_item_view, R.string.farfetchd_name),
+            DexScrollEntry(R.string.doduo_dex_no, R.drawable.doduo_item_view, R.string.doduo_name),
+            DexScrollEntry(R.string.dodrio_dex_no, R.drawable.dodrio_item_view, R.string.dodrio_name),
+            DexScrollEntry(R.string.seel_dex_no, R.drawable.seel_item_view, R.string.seel_name),
+            DexScrollEntry(R.string.dewgong_dex_no, R.drawable.dewgong_item_view, R.string.dewgong_name),
+            DexScrollEntry(R.string.grimer_dex_no, R.drawable.grimer_item_view, R.string.grimer_name),
+            DexScrollEntry(R.string.muk_dex_no, R.drawable.muk_item_view, R.string.muk_name),
+            DexScrollEntry(R.string.shellder_dex_no, R.drawable.shellder_item_view, R.string.shellder_name),
+            DexScrollEntry(R.string.cloyster_dex_no, R.drawable.cloyster_item_view, R.string.cloyster_name),
+            DexScrollEntry(R.string.ghastly_dex_no, R.drawable.gastly_item_view, R.string.ghastly_name),
         )
     }
 

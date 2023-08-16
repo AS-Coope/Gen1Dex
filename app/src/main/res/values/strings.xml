@@ -881,14 +881,14 @@
     <string name="cloyster_height">1.5 m</string>
 
     <!-- Ghastly Line -->
-    <string name="ghastly_name">Ghastly</string>
-    <string name="ghastly_dex_no">No. 092</string>
-    <string name="ghastly_species">Gas Pokemon</string>
-    <string name="ghastly_desc">
+    <string name="gastly_name">Ghastly</string>
+    <string name="gastly_dex_no">No. 092</string>
+    <string name="gastly_species">Gas Pokemon</string>
+    <string name="gastly_desc">
         A being that exists as a thin gas. It can topple an Indian elephant by enveloping the prey in two seconds.
     </string>
-    <string name="ghastly_weight">0.1 kg</string>
-    <string name="ghastly_height">1.3 m</string>
+    <string name="gastly_weight">0.1 kg</string>
+    <string name="gastly_height">1.3 m</string>
 
     <string name="haunter_name">Haunter</string>
     <string name="haunter_dex_no">No. 093</string>
