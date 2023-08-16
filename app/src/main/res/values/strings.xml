@@ -681,14 +681,14 @@
     <string name="weepinbell_weight">6.4 kg</string>
     <string name="weepinbell_height">1.0 m</string>
 
-    <string name="victreebell_name">Victreebel</string>
-    <string name="victreebell_dex_no">No. 071</string>
-    <string name="victreebell_species">Flycatcher Pokemon</string>
-    <string name="victreebell_desc">
+    <string name="victreebel_name">Victreebel</string>
+    <string name="victreebel_dex_no">No. 071</string>
+    <string name="victreebel_species">Flycatcher Pokemon</string>
+    <string name="victreebel_desc">
         Lures prey into its mouth with a honeylike aroma. The helpless prey is melted with a dissolving fluid.
     </string>
-    <string name="victreebell_weight">15.5 kg</string>
-    <string name="victreebell_height">1.7 m</string>
+    <string name="victreebel_weight">15.5 kg</string>
+    <string name="victreebel_height">1.7 m</string>
 
     <!-- Tentacool Line -->
     <string name="tentacool_name">Tentacool</string>
