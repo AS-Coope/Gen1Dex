@@ -111,7 +111,23 @@ class DexDataSource {
             DexScrollEntry(R.string.voltorb_dex_no, R.drawable.voltorb_item_view, R.string.voltorb_name),
             DexScrollEntry(R.string.electrode_dex_no, R.drawable.electrode_item_view, R.string.electrode_name),
             DexScrollEntry(R.string.exeggcute_dex_no, R.drawable.exeggcute_item_view, R.string.exeggcute_name),
-            DexScrollEntry(R.string.exeggutor_dex_no, R.drawable.exeggutor_item_view, R.string.exeggutor_name)
+            DexScrollEntry(R.string.exeggutor_dex_no, R.drawable.exeggutor_item_view, R.string.exeggutor_name),
+            DexScrollEntry(R.string.cubone_dex_no, R.drawable.cubone_item_view, R.string.cubone_name),
+            DexScrollEntry(R.string.marowak_dex_no, R.drawable.marowak_item_view, R.string.marowak_name),
+            DexScrollEntry(R.string.hitmonlee_dex_no, R.drawable.hitmonlee_item_view, R.string.hitmonlee_name),
+            DexScrollEntry(R.string.hitmonchan_dex_no, R.drawable.hitmonchan_item_view, R.string.hitmonchan_name),
+            DexScrollEntry(R.string.lickitung_dex_no, R.drawable.lickitung_item_view, R.string.lickitung_name),
+            DexScrollEntry(R.string.koffing_dex_no, R.drawable.koffing_item_view, R.string.koffing_name),
+            DexScrollEntry(R.string.weezing_dex_no, R.drawable.weezing_item_view, R.string.weezing_name),
+            DexScrollEntry(R.string.rhyhorn_dex_no, R.drawable.rhyhorn_item_view, R.string.rhyhorn_name),
+            DexScrollEntry(R.string.rhydon_dex_no, R.drawable.rhydon_item_view, R.string.rhydon_name),
+            DexScrollEntry(R.string.chansey_dex_no, R.drawable.chansey_item_view, R.string.chansey_name),
+            DexScrollEntry(R.string.tangela_dex_no, R.drawable.tangela_item_view, R.string.tangela_name),
+            DexScrollEntry(R.string.kangaskhan_dex_no, R.drawable.kangaskhan_item_view, R.string.kangaskhan_name),
+            DexScrollEntry(R.string.horsea_dex_no, R.drawable.horsea_item_view, R.string.horsea_name),
+            DexScrollEntry(R.string.seadra_dex_no, R.drawable.seadra_item_view, R.string.seadra_name),
+            DexScrollEntry(R.string.goldeen_dex_no, R.drawable.goldeen_item_view, R.string.goldeen_name),
+            DexScrollEntry(R.string.seaking_dex_no, R.drawable.seaking_item_view, R.string.seaking_name)
         )
     }
 
