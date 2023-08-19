@@ -994,4 +994,159 @@
     <string name="exeggutor_weight">120.0 kg</string>
     <string name="exeggutor_height">2.0 m</string>
 
+    <!-- Cubone Line -->
+    <string name="cubone_name">Cubone</string>
+    <string name="cubone_dex_no">No. 104</string>
+    <string name="cubone_species">Lonely Pokemon</string>
+    <string name="cubone_desc">
+        It wears the skull of its dead mother on its head. When it becomes lonesome, it is said to cry loudly.
+    </string>
+    <string name="cubone_weight">6.5 kg</string>
+    <string name="cubone_height">0.4 m</string>
+
+    <string name="marowak_name">Marowak</string>
+    <string name="marowak_dex_no">No. 105</string>
+    <string name="marowak_species">Bone Keeper Pokemon</string>
+    <string name="marowak_desc">
+        It is small and was originally very weak. Its temperament turned ferocious when it began using bones.
+    </string>
+    <string name="marowak_weight">45.0 kg</string>
+    <string name="marowak_height">1.0 m</string>
+
+    <!-- Hitmonlee Line -->
+    <string name="hitmonlee_name">Hitmonlee</string>
+    <string name="hitmonlee_dex_no">No. 106</string>
+    <string name="hitmonlee_species">Kicking Pokemon</string>
+    <string name="hitmonlee_desc">
+        The legs freely contract and stretch. The stretchy legs allow it to hit a distant foe with a rising kick.
+    </string>
+    <string name="hitmonlee_weight">49.8 kg</string>
+    <string name="hitmonlee_height">1.5 m</string>
+
+    <!-- Hitmonchan Line -->
+    <string name="hitmonchan_name">Hitmonchan</string>
+    <string name="hitmonchan_dex_no">No. 107</string>
+    <string name="hitmonchan_species">Punching Pokemon</string>
+    <string name="hitmonchan_desc">
+        The spirit of a pro boxer has infused this POKéMON. It throws punches that are faster than a bullet train.
+    </string>
+    <string name="hitmonchan_weight">50.2 kg</string>
+    <string name="hitmonchan_height">1.4 m</string>
+
+    <!-- Lickitung Line -->
+    <string name="lickitung_name">Lickitung</string>
+    <string name="lickitung_dex_no">No. 108</string>
+    <string name="lickitung_species">Licking Pokemon</string>
+    <string name="lickitung_desc">
+        Its tongue is twice the length of its body. It can be moved like an arm for grabbing food and attacking.
+    </string>
+    <string name="lickitung_weight">65.5 kg</string>
+    <string name="lickitung_height">1.2 m</string>
+
+    <!-- Koffing Line -->
+    <string name="koffing_name">Koffing</string>
+    <string name="koffing_dex_no">No. 109</string>
+    <string name="koffing_species">Poison Gas Pokemon</string>
+    <string name="koffing_desc">
+        Its thin, balloon-like body is inflated by horribly toxic gases. It reeks when it is nearby.
+    </string>
+    <string name="koffing_weight">1.0 kg</string>
+    <string name="koffing_height">0.6 m</string>
+
+    <string name="weezing_name">Weezing</string>
+    <string name="weezing_dex_no">No. 110</string>
+    <string name="weezing_species">Poison Gas Pokemon</string>
+    <string name="weezing_desc">
+        Very rarely, a sudden mutation can result in two small KOFFING twins becoming conjoined as a WEEZING.
+    </string>
+    <string name="weezing_weight">9.5 kg</string>
+    <string name="weezing_height">1.2 m</string>
+
+    <!-- Rhyhorn Line -->
+    <string name="rhyhorn_name">Rhyhorn</string>
+    <string name="rhyhorn_dex_no">No. 111</string>
+    <string name="rhyhorn_species">Spikes Pokemon</string>
+    <string name="rhyhorn_desc">
+        Strong, but not too bright, this POKéMON can shatter even a skyscraper with its charging TACKLES.
+    </string>
+    <string name="rhyhorn_weight">115.0 kg</string>
+    <string name="rhyhorn_height">1.0 m</string>
+
+    <string name="rhydon_name">Rhydon</string>
+    <string name="rhydon_dex_no">No. 112</string>
+    <string name="rhydon_species">Drill Pokemon</string>
+    <string name="rhydon_desc">
+        It begins walking on its hind legs after evolution. It can punch holes through boulders with its horn.
+    </string>
+    <string name="rhydon_weight">120.0 kg</string>
+    <string name="rhydon_height">1.9 m</string>
+
+    <!-- Chansey Line -->
+    <string name="chansey_name">Chansey</string>
+    <string name="chansey_dex_no">No. 113</string>
+    <string name="chansey_species">Egg Pokemon</string>
+    <string name="chansey_desc">
+        It lays several eggs a day. The eggs are apparently rich in nutrients and extremely delicious.
+    </string>
+    <string name="chansey_weight">34.6 kg</string>
+    <string name="chansey_height">1.1 m</string>
+
+    <!-- Tangela Line -->
+    <string name="tangela_name">Tangela</string>
+    <string name="tangela_dex_no">No. 114</string>
+    <string name="tangela_species">Vine Pokemon</string>
+    <string name="tangela_desc">
+        Blue plant vines cloak the POKéMON’s identity in a tangled mass. It entangles anything that gets close
+    </string>
+    <string name="tangela_weight">35.0 kg</string>
+    <string name="tangela_height">1.0 m</string>
+
+    <!-- Kangaskhan Line -->
+    <string name="kangaskhan_name">Kangaskhan</string>
+    <string name="kangaskhan_dex_no">No. 115</string>
+    <string name="kangaskhan_species">Parent Pokemon</string>
+    <string name="kangaskhan_desc">
+        The female raises its offspring in a pouch on its belly. It is skilled at attacking using COMET PUNCH.
+    </string>
+    <string name="kangaskhan_weight">80.0 kg</string>
+    <string name="kangaskhan_height">2.2 m</string>
+
+    <!-- Horsea Line -->
+    <string name="horsea_name">Horsea</string>
+    <string name="horsea_dex_no">No. 116</string>
+    <string name="horsea_species">Dragon Pokemon</string>
+    <string name="horsea_desc">
+        It maintains balance using its tail, which is wound up like a coil. It may spray ink from its mouth.
+    </string>
+    <string name="horsea_weight">8.0 kg</string>
+    <string name="horsea_height">0.4 m</string>
+
+    <string name="seadra_name">Seadra</string>
+    <string name="seadra_dex_no">No. 117</string>
+    <string name="seadra_species">Dragon Pokemon</string>
+    <string name="seadra_desc">
+        Its body bristles with sharp spikes. Carelessly trying to touch it could cause fainting from the spikes.
+    </string>
+    <string name="seadra_weight">25.0 kg</string>
+    <string name="seadra_height">1.2 m</string>
+
+    <!-- Goldeen Line -->
+    <string name="goldeen_name">Goldeen</string>
+    <string name="goldeen_dex_no">No. 118</string>
+    <string name="goldeen_species">Goldfish Pokemon</string>
+    <string name="goldeen_desc">
+        Its dorsal and pectoral fins are strongly developed like muscles. It can swim at a speed of five knots.
+    </string>
+    <string name="goldeen_weight">15.0 kg</string>
+    <string name="goldeen_height">0.6 m</string>
+
+    <string name="seaking_name">Seaking</string>
+    <string name="seaking_dex_no">No. 119</string>
+    <string name="seaking_species">Goldfish Pokemon</string>
+    <string name="seaking_desc">
+        The horn on its head is sharp like a drill. It bores a hole in a boulder to make its nest.
+    </string>
+    <string name="seaking_weight">39.0 kg</string>
+    <string name="seaking_height">1.3 m</string>
+
 </resources>
