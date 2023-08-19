@@ -258,6 +258,81 @@ class DexDataSource {
             ),
             DexEntry(
                 R.string.nidoking_dex_no, R.drawable.nidoking_item_view, R.string.nidoking_name, R.string.nidoking_species,R.string.nidoking_desc, R.string.nidoking_weight, R.string.nidoking_height, R.string.type_poison, R.string.type_ground
+            ),
+
+            /////////// 35 - 36
+            DexEntry(
+                R.string.clefairy_dex_no, R.drawable.clefairy_item_view, R.string.clefairy_name, R.string.clefairy_species,R.string.clefairy_desc, R.string.clefairy_weight, R.string.clefairy_height, R.string.type_normal, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.clefable_dex_no, R.drawable.clefable_item_view, R.string.clefable_name, R.string.clefable_species,R.string.clefable_desc, R.string.clefable_weight, R.string.clefable_height, R.string.type_normal, R.string.no_type_2
+            ),
+
+            /////////// 37 - 38
+            DexEntry(
+                R.string.vulpix_dex_no, R.drawable.vulpix_item_view, R.string.vulpix_name, R.string.vulpix_species,R.string.vulpix_desc, R.string.vulpix_weight, R.string.vulpix_height, R.string.type_fire, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.ninetales_dex_no, R.drawable.ninetales_item_view, R.string.ninetales_name, R.string.ninetales_species,R.string.ninetales_desc, R.string.ninetales_weight, R.string.ninetales_height, R.string.type_fire, R.string.no_type_2
+            ),
+
+            /////////// 39 - 40
+            DexEntry(
+                R.string.jigglypuff_dex_no, R.drawable.jigglypuff_item_view, R.string.jigglypuff_name, R.string.jigglypuff_species,R.string.jigglypuff_desc, R.string.jigglypuff_weight, R.string.jigglypuff_height, R.string.type_normal, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.wigglytuff_dex_no, R.drawable.wigglytuff_item_view, R.string.wigglytuff_name, R.string.wigglytuff_species,R.string.wigglytuff_desc, R.string.wigglytuff_weight, R.string.wigglytuff_height, R.string.type_normal, R.string.no_type_2
+            ),
+
+            /////////// 41 - 42
+            DexEntry(
+                R.string.zubat_dex_no, R.drawable.zubat_item_view, R.string.zubat_name, R.string.zubat_species,R.string.zubat_desc, R.string.zubat_weight, R.string.zubat_height, R.string.type_poison, R.string.type_flying
+            ),
+            DexEntry(
+                R.string.golbat_dex_no, R.drawable.golbat_item_view, R.string.golbat_name, R.string.golbat_species,R.string.golbat_desc, R.string.golbat_weight, R.string.golbat_height, R.string.type_normal, R.string.type_flying
+            ),
+
+            /////////// 43 - 45
+            DexEntry(
+                R.string.oddish_dex_no, R.drawable.oddish_item_view, R.string.oddish_name, R.string.oddish_species,R.string.oddish_desc, R.string.oddish_weight, R.string.oddish_height, R.string.type_grass, R.string.type_poison
+            ),
+            DexEntry(
+                R.string.gloom_dex_no, R.drawable.gloom_item_view, R.string.gloom_name, R.string.gloom_species,R.string.gloom_desc, R.string.gloom_weight, R.string.gloom_height, R.string.type_grass, R.string.type_poison
+            ),
+            DexEntry(
+                R.string.vileplume_dex_no, R.drawable.vileplume_item_view, R.string.vileplume_name, R.string.vileplume_species,R.string.vileplume_desc, R.string.vileplume_weight, R.string.vileplume_height, R.string.type_grass, R.string.type_poison
+            ),
+
+            /////////// 46 - 47
+            DexEntry(
+                R.string.paras_dex_no, R.drawable.paras_item_view, R.string.paras_name, R.string.paras_species,R.string.paras_desc, R.string.paras_weight, R.string.paras_height, R.string.type_bug, R.string.type_grass
+            ),
+            DexEntry(
+                R.string.parasect_dex_no, R.drawable.parasect_item_view, R.string.parasect_name, R.string.parasect_species,R.string.parasect_desc, R.string.parasect_weight, R.string.parasect_height, R.string.type_bug, R.string.type_grass
+            ),
+
+            /////////// 48 - 49
+            DexEntry(
+                R.string.venonat_dex_no, R.drawable.venonat_item_view, R.string.venonat_name, R.string.venonat_species,R.string.venonat_desc, R.string.venonat_weight, R.string.venonat_height, R.string.type_bug, R.string.type_poison
+            ),
+            DexEntry(
+                R.string.venomoth_dex_no, R.drawable.venomoth_item_view, R.string.venomoth_name, R.string.venomoth_species,R.string.venomoth_desc, R.string.venomoth_weight, R.string.venomoth_height, R.string.type_bug, R.string.type_poison
+            ),
+
+            /////////// 50 - 51
+            DexEntry(
+                R.string.diglett_dex_no, R.drawable.diglett_item_view, R.string.diglett_name, R.string.diglett_species,R.string.diglett_desc, R.string.diglett_weight, R.string.diglett_height, R.string.type_ground, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.dugtrio_dex_no, R.drawable.dugtrio_item_view, R.string.dugtrio_name, R.string.dugtrio_species,R.string.dugtrio_desc, R.string.dugtrio_weight, R.string.dugtrio_height, R.string.type_ground, R.string.no_type_2
+            ),
+
+            /////////// 52 - 53
+            DexEntry(
+                R.string.meowth_dex_no, R.drawable.meowth_item_view, R.string.meowth_name, R.string.meowth_species,R.string.meowth_desc, R.string.meowth_weight, R.string.meowth_height, R.string.type_normal, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.persian_dex_no, R.drawable.persian_item_view, R.string.persian_name, R.string.persian_species,R.string.persian_desc, R.string.persian_weight, R.string.persian_height, R.string.type_normal, R.string.no_type_2
             )
         )
     }
