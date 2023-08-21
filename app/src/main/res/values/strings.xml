@@ -1337,14 +1337,14 @@
     <string name="omanyte_weight">7.5 kg</string>
     <string name="omanyte_height">0.4 m</string>
 
-    <string name="omaster_name">Omaster</string>
-    <string name="omaster_dex_no">No. 139</string>
-    <string name="omaster_species">Spiral Pokemon</string>
-    <string name="omaster_desc">
+    <string name="omastar_name">Omastar</string>
+    <string name="omastar_dex_no">No. 139</string>
+    <string name="omastar_species">Spiral Pokemon</string>
+    <string name="omastar_desc">
         Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.
     </string>
-    <string name="omaster_weight">35.0 kg</string>
-    <string name="omaster_height">1.0 m</string>
+    <string name="omastar_weight">35.0 kg</string>
+    <string name="omastar_height">1.0 m</string>
 
     <!-- Kabuto Line -->
     <string name="kabuto_name">Kabuto</string>
