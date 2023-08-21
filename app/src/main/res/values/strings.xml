@@ -1149,4 +1149,318 @@
     <string name="seaking_weight">39.0 kg</string>
     <string name="seaking_height">1.3 m</string>
 
+    <!-- Staryu Line -->
+    <string name="staryu_name">Staryu</string>
+    <string name="staryu_dex_no">No. 120</string>
+    <string name="staryu_species">Star Shape Pokemon</string>
+    <string name="staryu_desc">
+        It appears in large numbers by seashores. At night, its central core flashes with a red light.
+    </string>
+    <string name="staryu_weight">34.5 kg</string>
+    <string name="staryu_height">0.8 m</string>
+
+    <string name="starmie_name">Starmie</string>
+    <string name="starmie_dex_no">No. 121</string>
+    <string name="starmie_species">Mysterious Pokemon</string>
+    <string name="starmie_desc">
+        This POKéMON has a geometric body. Because of its body, the locals suspect that it is an alien creature.
+    </string>
+    <string name="starmie_weight">80.0 kg</string>
+    <string name="starmie_height">1.1 m</string>
+
+    <!-- Mr.Mime Line -->
+    <string name="mr_mime_name">Mr.Mime</string>
+    <string name="mr_mime_dex_no">No. 122</string>
+    <string name="mr_mime_species">Barrier Pokemon</string>
+    <string name="mr_mime_desc">
+        It is adept at conning people. It is said to be able to create walls out of thin air by miming.
+    </string>
+    <string name="mr_mime_weight">54.5 kg</string>
+    <string name="mr_mime_height">1.3 m</string>
+
+    <!-- Scyther Line -->
+    <string name="scyther_name">Scyther</string>
+    <string name="scyther_dex_no">No. 123</string>
+    <string name="scyther_species">Mantis Pokemon</string>
+    <string name="scyther_desc">
+        It tears and shreds prey with its wickedly sharp scythes. It very rarely spreads its wings to fly.
+    </string>
+    <string name="scyther_weight">56.0 kg</string>
+    <string name="scyther_height">1.5 m</string>
+
+    <!-- Jynx Line -->
+    <string name="jynx_name">Jynx</string>
+    <string name="jynx_dex_no">No. 124</string>
+    <string name="jynx_species">Human Shape Pokemon</string>
+    <string name="jynx_desc">
+        It speaks using a language that sounds human. Research is under way to determine what is being said.
+    </string>
+    <string name="jynx_weight">40.6 kg</string>
+    <string name="jynx_height">1.4 m</string>
+
+    <!-- Electabuzz Line -->
+    <string name="electabuzz_name">Electabuzz</string>
+    <string name="electabuzz_dex_no">No. 125</string>
+    <string name="electabuzz_species">Electric Pokemon</string>
+    <string name="electabuzz_desc">
+        It loves to feed on strong electricity. It occasionally appears around large power plants and so on.
+    </string>
+    <string name="electabuzz_weight">30.0 kg</string>
+    <string name="electabuzz_height">1.1 m</string>
+
+    <!-- Magmar Line -->
+    <string name="magmar_name">Magmar</string>
+    <string name="magmar_dex_no">No. 126</string>
+    <string name="magmar_species">Spitfire Pokemon</string>
+    <string name="magmar_desc">
+        Found near the mouth of a volcano. This fire-breather’s body temperature is nearly 2,200 degrees Fahrenheit.
+    </string>
+    <string name="magmar_weight">44.5 kg</string>
+    <string name="magmar_height">1.3 m</string>
+
+    <!-- Pinsir Line -->
+    <string name="pinsir_name">Pinsir</string>
+    <string name="pinsir_dex_no">No. 127</string>
+    <string name="pinsir_species">Stag Beetle Pokemon</string>
+    <string name="pinsir_desc">
+        Its two long pincer horns are powerful. Once they grip an enemy, they won’t release until the foe is torn.
+    </string>
+    <string name="pinsir_weight">55.0 kg</string>
+    <string name="pinsir_height">1.5 m</string>
+
+    <!-- Tauros Line -->
+    <string name="tauros_name">Tauros</string>
+    <string name="tauros_dex_no">No. 128</string>
+    <string name="tauros_species">Wild Bull Pokemon</string>
+    <string name="tauros_desc">
+        When it is about to TACKLE, it whips its body repeatedly with its three long tails.
+    </string>
+    <string name="tauros_weight">88.4 kg</string>
+    <string name="tauros_height">1.4 m</string>
+
+    <!-- Magikarp Line -->
+    <string name="magikarp_name">Magikarp</string>
+    <string name="magikarp_dex_no">No. 129</string>
+    <string name="magikarp_species">Fish Pokemon</string>
+    <string name="magikarp_desc">
+        It is virtually worthless in terms of both power and speed. It is the most weak and pathetic POKéMON in the world.
+    </string>
+    <string name="magikarp_weight">10.0 kg</string>
+    <string name="magikarp_height">0.9 m</string>
+
+    <string name="gyarados_name">Gyarados</string>
+    <string name="gyarados_dex_no">No. 130</string>
+    <string name="gyarados_species">Atrocious Pokemon</string>
+    <string name="gyarados_desc">
+        It has an extremely aggressive nature. The HYPER BEAM it shoots from its mouth totally incinerates all targets.
+    </string>
+    <string name="gyarados_weight">235.0 kg</string>
+    <string name="gyarados_height">6.5 m</string>
+
+    <!-- Lapras Line -->
+    <string name="lapras_name">Lapras</string>
+    <string name="lapras_dex_no">No. 131</string>
+    <string name="lapras_species">Transport Pokemon</string>
+    <string name="lapras_desc">
+        Its high intelligence enables it to understand human speech. It likes to ferry people on its back.
+    </string>
+    <string name="lapras_weight">220.0 kg</string>
+    <string name="lapras_height">2.5 m</string>
+
+    <!-- Ditto Line -->
+    <string name="ditto_name">Ditto</string>
+    <string name="ditto_dex_no">No. 132</string>
+    <string name="ditto_species">Transform Pokemon</string>
+    <string name="ditto_desc">
+        It can freely recombine its own cellular structure to transform into other life-forms.
+    </string>
+    <string name="ditto_weight">4.0 kg</string>
+    <string name="ditto_height">0.3 m</string>
+
+    <!-- Eevee Line -->
+    <string name="eevee_name">Eevee</string>
+    <string name="eevee_dex_no">No. 133</string>
+    <string name="eevee_species">Evolution Pokemon</string>
+    <string name="eevee_desc">
+        An extremely rare POKéMON that may evolve in a number of different ways depending on stimuli.
+    </string>
+    <string name="eevee_weight">6.5 kg</string>
+    <string name="eevee_height">0.3 m</string>
+
+    <!-- Vaporeon Line -->
+    <string name="vaporeon_name">Vaporeon</string>
+    <string name="vaporeon_dex_no">No. 134</string>
+    <string name="vaporeon_species">Bubble Jet Pokemon</string>
+    <string name="vaporeon_desc">
+        Its body’s cellular structure is similar to the molecular composition of water. It can melt invisibly in water.
+    </string>
+    <string name="vaporeon_weight">29.0 kg</string>
+    <string name="vaporeon_height">1.0 m</string>
+
+    <!-- Jolteon Line -->
+    <string name="jolteon_name">Jolteon</string>
+    <string name="jolteon_dex_no">No. 135</string>
+    <string name="jolteon_species">Lightning Pokemon</string>
+    <string name="jolteon_desc">
+        If it is angered or startled, the fur all over its body bristles like sharp needles that pierce foes.
+    </string>
+    <string name="jolteon_weight">24.5 kg</string>
+    <string name="jolteon_height">0.8 m</string>
+
+    <!-- Flareon Line -->
+    <string name="flareon_name">Flareon</string>
+    <string name="flareon_dex_no">No. 136</string>
+    <string name="flareon_species">Flame Pokemon</string>
+    <string name="flareon_desc">
+        It has a flame bag inside its body. After inhaling deeply, it blows out flames of nearly 3,100 degrees Fahrenheit.
+    </string>
+    <string name="flareon_weight">25.0 kg</string>
+    <string name="flareon_height">0.9 m</string>
+
+    <!-- Porygon Line -->
+    <string name="porygon_name">Porygon</string>
+    <string name="porygon_dex_no">No. 137</string>
+    <string name="porygon_species">Virtual Pokemon</string>
+    <string name="porygon_desc">
+        Using the most advanced technologies, scientists finally succeeded in making the first artificial POKéMON.
+    </string>
+    <string name="porygon_weight">36.5 kg</string>
+    <string name="porygon_height">0.8 m</string>
+
+    <!-- Omanyte Line -->
+    <string name="omanyte_name">Omanyte</string>
+    <string name="omanyte_dex_no">No. 138</string>
+    <string name="omanyte_species">Spiral Pokemon</string>
+    <string name="omanyte_desc">
+        A prehistoric POKéMON that lived in the primordial sea, it swims by twisting its 10 tentacles about.
+    </string>
+    <string name="omanyte_weight">7.5 kg</string>
+    <string name="omanyte_height">0.4 m</string>
+
+    <string name="omaster_name">Omaster</string>
+    <string name="omaster_dex_no">No. 139</string>
+    <string name="omaster_species">Spiral Pokemon</string>
+    <string name="omaster_desc">
+        Its tentacles are highly developed as if they are hands and feet. As soon as it ensnares prey, it bites.
+    </string>
+    <string name="omaster_weight">35.0 kg</string>
+    <string name="omaster_height">1.0 m</string>
+
+    <!-- Kabuto Line -->
+    <string name="kabuto_name">Kabuto</string>
+    <string name="kabuto_dex_no">No. 140</string>
+    <string name="kabuto_species">Shellfish Pokemon</string>
+    <string name="kabuto_desc">
+        This POKéMON was regenerated from the fossil of an ancient creature. It protects itself with a hard shell.
+    </string>
+    <string name="kabuto_weight">11.5 kg</string>
+    <string name="kabuto_height">0.5 m</string>
+
+    <string name="kabutops_name">Kabutops</string>
+    <string name="kabutops_dex_no">No. 141</string>
+    <string name="kabutops_species">Shellfish Pokemon</string>
+    <string name="kabutops_desc">
+        It swims freely through water. It catches prey with its scythe-like arms and drains the victim’s fluids.
+    </string>
+    <string name="kabutops_weight">40.5 kg</string>
+    <string name="kabutops_height">1.3 m</string>
+
+    <!-- Aerodactyl Line -->
+    <string name="aerodactyl_name">Aerodactyl</string>
+    <string name="aerodactyl_dex_no">No. 142</string>
+    <string name="aerodactyl_species">Fossil Pokemon</string>
+    <string name="aerodactyl_desc">
+        It was regenerated from a dinosaur’s genetic matter that was found in amber. It flies with high-pitched cries.
+    </string>
+    <string name="aerodactyl_weight">59.0 kg</string>
+    <string name="aerodactyl_height">1.8 m</string>
+
+    <!-- Snorlax Line -->
+    <string name="snorlax_name">Snorlax</string>
+    <string name="snorlax_dex_no">No. 143</string>
+    <string name="snorlax_species">Sleeping Pokemon</string>
+    <string name="snorlax_desc">
+        It is not satisfied unless it eats over 880 pounds of food every day. When it is done eating, it goes promptly to sleep.
+    </string>
+    <string name="snorlax_weight">460.0 kg</string>
+    <string name="snorlax_height">2.1 m</string>
+
+    <!-- Articuno Line -->
+    <string name="articuno_name">Articuno</string>
+    <string name="articuno_dex_no">No. 144</string>
+    <string name="articuno_species">Freeze Pokemon</string>
+    <string name="articuno_desc">
+        One of the legendary bird POKéMON. With its long tail trailing behind, its flying form is magnificent.
+    </string>
+    <string name="articuno_weight">55.4 kg</string>
+    <string name="articuno_height">1.7 m</string>
+
+    <!-- Zapdos Line -->
+    <string name="zapdos_name">Zapdos</string>
+    <string name="zapdos_dex_no">No. 145</string>
+    <string name="zapdos_species">Electric Pokemon</string>
+    <string name="zapdos_desc">
+        One of the legendary bird POKéMON. While it is flying, it makes crackling and snapping sounds.
+    </string>
+    <string name="zapdos_weight">52.6 kg</string>
+    <string name="zapdos_height">1.6 m</string>
+
+    <!-- Moltres Line -->
+    <string name="moltres_name">Moltres</string>
+    <string name="moltres_dex_no">No. 146</string>
+    <string name="moltres_species">Flame Pokemon</string>
+    <string name="moltres_desc">
+        One of the legendary bird POKéMON. Those seeing it are overwhelmed by its orange wings that seem to be on fire.
+    </string>
+    <string name="moltres_weight">60.0 kg</string>
+    <string name="moltres_height">2.0 m</string>
+
+    <!-- Dratini Line -->
+    <string name="dratini_name">Dratini</string>
+    <string name="dratini_dex_no">No. 147</string>
+    <string name="dratini_species">Dragon Pokemon</string>
+    <string name="dratini_desc">
+        Even the young can exceed 6.5 feet in length. It grows larger by repeatedly shedding skin.
+    </string>
+    <string name="dratini_weight">3.3 kg</string>
+    <string name="dratini_height">1.8 m</string>
+
+    <string name="dragonair_name">Dragonair</string>
+    <string name="dragonair_dex_no">No. 148</string>
+    <string name="dragonair_species">Dragon Pokemon</string>
+    <string name="dragonair_desc">
+        It is said to live in seas and lakes. Even though it has no wings, it has been seen flying occasionally.
+    </string>
+    <string name="dragonair_weight">16.5 kg</string>
+    <string name="dragonair_height">4.0 m</string>
+
+    <string name="dragonite_name">Dragonite</string>
+    <string name="dragonite_dex_no">No. 149</string>
+    <string name="dragonite_species">Dragon Pokemon</string>
+    <string name="dragonite_desc">
+        It can fly in spite of its big and bulky physique. It circles the globe in just 16 hours.
+    </string>
+    <string name="dragonite_weight">210.0 kg</string>
+    <string name="dragonite_height">2.2 m</string>
+
+    <!-- Mewtwo Line -->
+    <string name="mewtwo_name">Mewtwo</string>
+    <string name="mewtwo_dex_no">No. 150</string>
+    <string name="mewtwo_species">Genetic Pokemon</string>
+    <string name="mewtwo_desc">
+        A POKéMON whose genetic code was repeatedly recombined for research. It turned vicious as a result.
+    </string>
+    <string name="mewtwo_weight">122.0 kg</string>
+    <string name="mewtwo_height">2.0 m</string>
+
+    <!-- Mew Line -->
+    <string name="mew_name">Mew</string>
+    <string name="mew_dex_no">No. 151</string>
+    <string name="mew_species">New Species Pokemon</string>
+    <string name="mew_desc">
+        A POKéMON of South America that was thought to have been extinct. It is very intelligent and learns any move.
+    </string>
+    <string name="mew_weight">4.0 kg</string>
+    <string name="mew_height">0.4 m</string>
+
 </resources>
