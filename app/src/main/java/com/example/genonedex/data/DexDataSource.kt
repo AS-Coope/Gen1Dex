@@ -365,6 +365,223 @@ class DexDataSource {
             ),
             DexEntry(
                 R.string.persian_dex_no, R.drawable.persian_item_view, R.string.persian_name, R.string.persian_species,R.string.persian_desc, R.string.persian_weight, R.string.persian_height, R.string.type_normal, R.string.no_type_2
+            ),
+
+            /////////// 54 - 55
+            DexEntry(
+                R.string.psyduck_dex_no, R.drawable.psyduck_item_view, R.string.psyduck_name, R.string.psyduck_species,R.string.psyduck_desc, R.string.psyduck_weight, R.string.psyduck_height, R.string.type_water, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.golduck_dex_no, R.drawable.golduck_item_view, R.string.golduck_name, R.string.golduck_species,R.string.golduck_desc, R.string.golduck_weight, R.string.golduck_height, R.string.type_water, R.string.no_type_2
+            ),
+
+            /////////// 56 - 57
+            DexEntry(
+                R.string.mankey_dex_no, R.drawable.mankey_item_view, R.string.mankey_name, R.string.mankey_species,R.string.mankey_desc, R.string.mankey_weight, R.string.mankey_height, R.string.type_fighting, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.primeape_dex_no, R.drawable.primeape_item_view, R.string.primeape_name, R.string.primeape_species,R.string.primeape_desc, R.string.primeape_weight, R.string.primeape_height, R.string.type_fighting, R.string.no_type_2
+            ),
+
+            /////////// 58 - 59
+            DexEntry(
+                R.string.growlithe_dex_no, R.drawable.growlithe_item_view, R.string.growlithe_name, R.string.growlithe_species,R.string.growlithe_desc, R.string.growlithe_weight, R.string.growlithe_height, R.string.type_fire, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.arcanine_dex_no, R.drawable.arcanine_item_view, R.string.arcanine_name, R.string.arcanine_species,R.string.arcanine_desc, R.string.arcanine_weight, R.string.arcanine_height, R.string.type_fire, R.string.no_type_2
+            ),
+
+            /////////// 60 - 62
+            DexEntry(
+                R.string.poliwag_dex_no, R.drawable.poliwag_item_view, R.string.poliwag_name, R.string.poliwag_species,R.string.poliwag_desc, R.string.poliwag_weight, R.string.poliwag_height, R.string.type_water, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.poliwhirl_dex_no, R.drawable.poliwhirl_item_view, R.string.poliwhirl_name, R.string.poliwhirl_species,R.string.poliwhirl_desc, R.string.poliwhirl_weight, R.string.poliwhirl_height, R.string.type_water, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.poliwrath_dex_no, R.drawable.poliwrath_item_view, R.string.poliwrath_name, R.string.poliwrath_species,R.string.poliwrath_desc, R.string.poliwrath_weight, R.string.poliwrath_height, R.string.type_water, R.string.type_fighting
+            ),
+
+            /////////// 63 - 65
+            DexEntry(
+                R.string.abra_dex_no, R.drawable.abra_item_view, R.string.abra_name, R.string.abra_species,R.string.abra_desc, R.string.abra_weight, R.string.abra_height, R.string.type_psychic, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.kadabra_dex_no, R.drawable.kadabra_item_view, R.string.kadabra_name, R.string.kadabra_species,R.string.kadabra_desc, R.string.kadabra_weight, R.string.kadabra_height, R.string.type_psychic, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.alakazam_dex_no, R.drawable.alakazam_item_view, R.string.alakazam_name, R.string.alakazam_species,R.string.alakazam_desc, R.string.alakazam_weight, R.string.alakazam_height, R.string.type_psychic, R.string.no_type_2
+            ),
+
+            /////////// 66 - 68
+            DexEntry(
+                R.string.machop_dex_no, R.drawable.machop_item_view, R.string.machop_name, R.string.machop_species,R.string.machop_desc, R.string.machop_weight, R.string.machop_height, R.string.type_fighting, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.machoke_dex_no, R.drawable.machoke_item_view, R.string.machoke_name, R.string.machoke_species,R.string.machoke_desc, R.string.machoke_weight, R.string.machoke_height, R.string.type_fighting, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.machamp_dex_no, R.drawable.machamp_item_view, R.string.machamp_name, R.string.machamp_species,R.string.machamp_desc, R.string.machamp_weight, R.string.machamp_height, R.string.type_fighting, R.string.no_type_2
+            ),
+
+            /////////// 69 - 71
+            DexEntry(
+                R.string.bellsprout_dex_no, R.drawable.bellsprout_item_view, R.string.bellsprout_name, R.string.bellsprout_species,R.string.bellsprout_desc, R.string.bellsprout_weight, R.string.bellsprout_height, R.string.type_grass, R.string.type_poison
+            ),
+            DexEntry(
+                R.string.weepinbell_dex_no, R.drawable.weepinbell_item_view, R.string.weepinbell_name, R.string.weepinbell_species,R.string.weepinbell_desc, R.string.weepinbell_weight, R.string.weepinbell_height, R.string.type_grass, R.string.type_poison
+            ),
+            DexEntry(
+                R.string.victreebel_dex_no, R.drawable.victreebel_item_view, R.string.victreebel_name, R.string.victreebel_species,R.string.victreebel_desc, R.string.victreebel_weight, R.string.victreebel_height, R.string.type_grass, R.string.type_poison
+            ),
+
+            /////////// 72 - 73
+            DexEntry(
+                R.string.tentacool_dex_no, R.drawable.tentacool_item_view, R.string.tentacool_name, R.string.tentacool_species,R.string.tentacool_desc, R.string.tentacool_weight, R.string.tentacool_height, R.string.type_water, R.string.type_poison
+            ),
+            DexEntry(
+                R.string.tentacruel_dex_no, R.drawable.tentacruel_item_view, R.string.tentacruel_name, R.string.tentacruel_species,R.string.tentacruel_desc, R.string.tentacruel_weight, R.string.tentacruel_height, R.string.type_water, R.string.type_poison
+            ),
+
+            /////////// 74 - 76
+            DexEntry(
+                R.string.geodude_dex_no, R.drawable.geodude_item_view, R.string.geodude_name, R.string.geodude_species,R.string.geodude_desc, R.string.geodude_weight, R.string.geodude_height, R.string.type_rock, R.string.type_ground
+            ),
+            DexEntry(
+                R.string.graveler_dex_no, R.drawable.graveler_item_view, R.string.graveler_name, R.string.graveler_species,R.string.graveler_desc, R.string.graveler_weight, R.string.graveler_height, R.string.type_rock, R.string.type_ground
+            ),
+            DexEntry(
+                R.string.golem_dex_no, R.drawable.golem_item_view, R.string.golem_name, R.string.golem_species,R.string.golem_desc, R.string.golem_weight, R.string.golem_height, R.string.type_rock, R.string.type_ground
+            ),
+
+            /////////// 77 - 78
+            DexEntry(
+                R.string.ponyta_dex_no, R.drawable.ponyta_item_view, R.string.ponyta_name, R.string.ponyta_species,R.string.ponyta_desc, R.string.ponyta_weight, R.string.ponyta_height, R.string.type_fire, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.rapidash_dex_no, R.drawable.rapidash_item_view, R.string.rapidash_name, R.string.rapidash_species,R.string.rapidash_desc, R.string.rapidash_weight, R.string.rapidash_height, R.string.type_fire, R.string.no_type_2
+            ),
+
+            /////////// 79 - 80
+            DexEntry(
+                R.string.slowpoke_dex_no, R.drawable.slowpoke_item_view, R.string.slowpoke_name, R.string.slowpoke_species,R.string.slowpoke_desc, R.string.slowpoke_weight, R.string.slowpoke_height, R.string.type_water, R.string.type_psychic
+            ),
+            DexEntry(
+                R.string.slowbro_dex_no, R.drawable.slowbro_item_view, R.string.slowbro_name, R.string.slowbro_species,R.string.slowbro_desc, R.string.slowbro_weight, R.string.slowbro_height, R.string.type_water, R.string.type_psychic
+            ),
+
+            /////////// 81 - 82
+            DexEntry(
+                R.string.magnemite_dex_no, R.drawable.magnemite_item_view, R.string.magnemite_name, R.string.magnemite_species,R.string.magnemite_desc, R.string.magnemite_weight, R.string.magnemite_height, R.string.type_electric, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.slowbro_dex_no, R.drawable.slowbro_item_view, R.string.slowbro_name, R.string.slowbro_species,R.string.slowbro_desc, R.string.slowbro_weight, R.string.slowbro_height, R.string.type_electric, R.string.no_type_2
+            ),
+
+            /////////// 83
+            DexEntry(
+                R.string.farfetchd_dex_no, R.drawable.farfetchd_item_view, R.string.farfetchd_name, R.string.farfetchd_species,R.string.farfetchd_desc, R.string.farfetchd_weight, R.string.farfetchd_height, R.string.type_normal, R.string.type_flying
+            ),
+
+            /////////// 84 - 85
+            DexEntry(
+                R.string.doduo_dex_no, R.drawable.doduo_item_view, R.string.doduo_name, R.string.doduo_species,R.string.doduo_desc, R.string.doduo_weight, R.string.doduo_height, R.string.type_normal, R.string.type_flying
+            ),
+            DexEntry(
+                R.string.dodrio_dex_no, R.drawable.dodrio_item_view, R.string.dodrio_name, R.string.dodrio_species,R.string.dodrio_desc, R.string.dodrio_weight, R.string.dodrio_height, R.string.type_normal, R.string.type_flying
+            ),
+
+            /////////// 86 - 87
+            DexEntry(
+                R.string.seel_dex_no, R.drawable.seel_item_view, R.string.seel_name, R.string.seel_species,R.string.seel_desc, R.string.seel_weight, R.string.seel_height, R.string.type_water, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.dewgong_dex_no, R.drawable.dewgong_item_view, R.string.dewgong_name, R.string.dewgong_species,R.string.dewgong_desc, R.string.dewgong_weight, R.string.dewgong_height, R.string.type_water, R.string.type_ice
+            ),
+
+            /////////// 88 - 89
+            DexEntry(
+                R.string.grimer_dex_no, R.drawable.grimer_item_view, R.string.grimer_name, R.string.grimer_species,R.string.grimer_desc, R.string.grimer_weight, R.string.grimer_height, R.string.type_poison, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.muk_dex_no, R.drawable.muk_item_view, R.string.muk_name, R.string.muk_species,R.string.muk_desc, R.string.muk_weight, R.string.muk_height, R.string.type_poison, R.string.no_type_2
+            ),
+
+            /////////// 90 - 91
+            DexEntry(
+                R.string.shellder_dex_no, R.drawable.shellder_item_view, R.string.shellder_name, R.string.shellder_species,R.string.shellder_desc, R.string.shellder_weight, R.string.shellder_height, R.string.type_water, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.cloyster_dex_no, R.drawable.cloyster_item_view, R.string.cloyster_name, R.string.cloyster_species,R.string.cloyster_desc, R.string.cloyster_weight, R.string.cloyster_height, R.string.type_water, R.string.type_ice
+            ),
+
+            /////////// 92 - 94
+            DexEntry(
+                R.string.gastly_dex_no, R.drawable.gastly_item_view, R.string.gastly_name, R.string.gastly_species,R.string.gastly_desc, R.string.gastly_weight, R.string.gastly_height, R.string.type_ghost, R.string.type_poison
+            ),
+            DexEntry(
+                R.string.haunter_dex_no, R.drawable.haunter_item_view, R.string.haunter_name, R.string.haunter_species,R.string.haunter_desc, R.string.haunter_weight, R.string.haunter_height, R.string.type_ghost, R.string.type_poison
+            ),
+            DexEntry(
+                R.string.gengar_dex_no, R.drawable.gengar_item_view, R.string.gengar_name, R.string.gengar_species,R.string.gengar_desc, R.string.gengar_weight, R.string.gengar_height, R.string.type_ghost, R.string.type_poison
+            ),
+
+            /////////// 95
+            DexEntry(
+                    R.string.onix_dex_no, R.drawable.onix_item_view, R.string.onix_name, R.string.onix_species,R.string.onix_desc, R.string.onix_weight, R.string.onix_height, R.string.type_rock, R.string.type_ground
+            ),
+
+            /////////// 96 - 97
+            DexEntry(
+                R.string.drowzee_dex_no, R.drawable.drowzee_item_view, R.string.drowzee_name, R.string.drowzee_species,R.string.drowzee_desc, R.string.drowzee_weight, R.string.drowzee_height, R.string.type_psychic, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.hypno_dex_no, R.drawable.hypno_item_view, R.string.hypno_name, R.string.hypno_species,R.string.hypno_desc, R.string.hypno_weight, R.string.hypno_height, R.string.type_psychic, R.string.no_type_2
+            ),
+
+            /////////// 98 - 99
+            DexEntry(
+                R.string.krabby_dex_no, R.drawable.krabby_item_view, R.string.krabby_name, R.string.krabby_species,R.string.krabby_desc, R.string.krabby_weight, R.string.krabby_height, R.string.type_water, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.kingler_dex_no, R.drawable.kingler_item_view, R.string.kingler_name, R.string.kingler_species,R.string.kingler_desc, R.string.kingler_weight, R.string.kingler_height, R.string.type_water, R.string.no_type_2
+            ),
+
+            /////////// 100 - 101
+            DexEntry(
+                R.string.voltorb_dex_no, R.drawable.voltorb_item_view, R.string.voltorb_name, R.string.voltorb_species,R.string.voltorb_desc, R.string.voltorb_weight, R.string.voltorb_height, R.string.type_electric, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.electrode_dex_no, R.drawable.electrode_item_view, R.string.electrode_name, R.string.electrode_species,R.string.electrode_desc, R.string.electrode_weight, R.string.electrode_height, R.string.type_electric, R.string.no_type_2
+            ),
+
+            /////////// 102 - 103
+            DexEntry(
+                R.string.exeggcute_dex_no, R.drawable.exeggcute_item_view, R.string.exeggcute_name, R.string.exeggcute_species,R.string.exeggcute_desc, R.string.exeggcute_weight, R.string.exeggcute_height, R.string.type_grass, R.string.type_psychic
+            ),
+            DexEntry(
+                R.string.exeggutor_dex_no, R.drawable.exeggutor_item_view, R.string.exeggutor_name, R.string.exeggutor_species,R.string.exeggutor_desc, R.string.exeggutor_weight, R.string.exeggutor_height, R.string.type_grass, R.string.type_psychic
+            ),
+
+            /////////// 104 - 105
+            DexEntry(
+                R.string.cubone_dex_no, R.drawable.cubone_item_view, R.string.cubone_name, R.string.cubone_species,R.string.cubone_desc, R.string.cubone_weight, R.string.cubone_height, R.string.type_ground, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.marowak_dex_no, R.drawable.marowak_item_view, R.string.marowak_name, R.string.marowak_species,R.string.marowak_desc, R.string.marowak_weight, R.string.marowak_height, R.string.type_ground, R.string.no_type_2
+            ),
+
+            /////////// 106 - 107
+            DexEntry(
+                R.string.hitmonlee_dex_no, R.drawable.hitmonlee_item_view, R.string.hitmonlee_name, R.string.hitmonlee_species,R.string.hitmonlee_desc, R.string.hitmonlee_weight, R.string.hitmonlee_height, R.string.type_fighting, R.string.no_type_2
+            ),
+            DexEntry(
+                R.string.hitmonchan_dex_no, R.drawable.hitmonchan_item_view, R.string.hitmonchan_name, R.string.hitmonchan_species,R.string.hitmonchan_desc, R.string.hitmonchan_weight, R.string.hitmonchan_height, R.string.type_fighting, R.string.no_type_2
+            ),
+
+            /////////// 108
+            DexEntry(
+                R.string.lickitung_dex_no, R.drawable.lickitung_item_view, R.string.lickitung_name, R.string.lickitung_species,R.string.lickitung_desc, R.string.lickitung_weight, R.string.lickitung_height, R.string.type_normal, R.string.no_type_2
             )
         )
     }
