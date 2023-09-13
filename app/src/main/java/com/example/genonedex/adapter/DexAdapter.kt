@@ -7,7 +7,6 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
-import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.example.genonedex.DetailsActivity
 import com.example.genonedex.R
@@ -29,7 +28,8 @@ class DexAdapter(
         }
 
         override fun onClick(v: View?) {
-            Toast.makeText(context, "${dexEntryName.text} at $adapterPosition clicked!", Toast.LENGTH_SHORT).show()
+            // not needed to identify which Dex Entry was selected anymore
+            // Toast.makeText(context, "${dexEntryName.text} at $adapterPosition clicked!", Toast.LENGTH_SHORT).show()
             val intent = Intent(context, DetailsActivity::class.java)
             intent.putExtra("DEX_ENTRY", adapterPosition)
             context.startActivity(intent)
