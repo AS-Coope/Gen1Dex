@@ -2,7 +2,8 @@
 
 ## Screenshots
 
-<img src="https://github.com/AS-Coope/Gen1Dex/assets/94488901/ee50927c-68ec-430d-aabe-d454cafeb5f4" height="480" width="auto">
+<img src="https://github.com/AS-Coope/Gen1Dex/assets/94488901/ee50927c-68ec-430d-aabe-d454cafeb5f4" height="480" width="auto">  
+
 ## Overview
 This is an Android application that simulates a PokéDex for Generation 1. I always wanted to create games as a kid, and even though the PokéDex isn't the main mechanic of Pokémon games, I would've still found it cool to implement something similar to it back then. That ended up being my drive to start this project. It will essentially act just like a PokéDex, with a screen where you can scroll through the different 'mons and another screen that comes up when you click on a specific 'mon.  
 It is built using the Kotlin programming language and developed in Android Studio and is tested on an emulator of the Google Pixel 3A and a physical Samsung Galaxy Tab A 8.0 (2019) SM-T290.
