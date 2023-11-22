@@ -31,12 +31,3 @@ the list screen/scroll screen.
 - [ ] Implement various forms of Searching/ Filtering on the 
 scroll screen, such as search by name, or filter by type.
 - [ ] Create tests to ensure proper functionality of previous and current features.
-
-For v2.0:
-- [ ] Update UI of details screen.
-- [ ] Add type(s) for each Pokémon to the details screen.
-- [ ] Add type(s) for each Pokémon on each Pokémon's card in
-the list screen/scroll screen.
-- [ ] Implement various forms of Searching/ Filtering on the 
-scroll screen, such as search by name, or filter by type.
-- [ ] Create tests to ensure proper functionality of previous and current features.
